@@ -15,10 +15,8 @@ Audio File: C:/Users/mochioka/Downloads/Video/[OZR] Nekomonogatari Black - 02 (B
 Video File: C:/Users/mochioka/Downloads/Video/[OZR] Nekomonogatari Black - 02 (BD 1080p HEVC Opus) [C4802D06].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1233
-Active Line: 1245
-Video Position: 33379
+Video Zoom Percent: 0.750000
+Video Position: 3814
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,8 +38,8 @@ Style: Title2,Reswysokr,173,&H00F8FAFA,&H000019FF,&H00808080,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:02:39.05,0:02:40.05,Black and Red,,0,0,0,mochi,{\blur0.9\fsp23.8\c&H0&\fscx117\fscy125\pos(951.5,450)}{0124}Ngày 30 Tháng 4
-Dialogue: 0,0:02:39.05,0:02:40.05,Black and Red,,0,0,0,mochi,{\blur3.5\fsp23.8\c&H0&\fscx117\fscy125\pos(951.5,450)\alpha&H80&}{0124}Ngày 30 Tháng 4
+Dialogue: 1,0:02:39.05,0:02:40.05,Black and Red,,0,0,0,mochi,{\blur0.9\fsp20.7\c&H0&\fscx117\fscy125\pos(951.5,450)}{0124}Ngày 30 Tháng 04
+Dialogue: 0,0:02:39.05,0:02:40.05,Black and Red,,0,0,0,mochi,{\blur3.5\fsp20.7\c&H0&\fscx117\fscy125\pos(951.5,450)\alpha&H80&}{0124}Ngày 30 Tháng 04
 Dialogue: 1,0:03:11.12,0:03:11.17,Black and Red,,0,0,0,mochi,{=2}{\blur0.9\fsp12\pos(963,360)\fscx180\fscy170}{0156}Donut
 Dialogue: 1,0:03:11.17,0:03:11.21,Black and Red,,0,0,0,mochi,{=2}{\blur0.9\fsp12\pos(962.86,360.02)\fscx180\fscy170}{0156}Donut
 Dialogue: 1,0:03:11.21,0:03:11.25,Black and Red,,0,0,0,mochi,{=2}{\blur0.9\fsp12\pos(962.69,359.95)\fscx180\fscy170}{0156}Donut
@@ -1286,3 +1284,5 @@ Dialogue: 1,0:15:46.88,0:15:46.92,Black and Red,,0,0,0,mochi,{\blur0.938\pos(962
 Dialogue: 1,0:15:46.92,0:15:46.96,Black and Red,,0,0,0,mochi,{\blur0.938\pos(962.7,832.66)\fscx100\fscy100\frz0\alpha&H00&\1a&H00&\c&HE4E8EB&}Hoạt Cảnh số     Không Có
 Dialogue: 0,0:23:12.16,0:23:14.45,Black and Red,,0,0,0,mochi,{\blur0.9\fs55\fscx120\fscy120\c&HFFFFFF&\pos(979.2,525)}Nguyên tác: Nisio Isin \N\N Minh họa: Haritama Hiroki
 Dialogue: 0,0:23:12.16,0:23:44.19,Black and Red,,0,0,0,mochi,{\blur0.7\pos(961.5,82.5)\b1\fscx87\fscy87}Xem Trước
+Dialogue: 0,0:23:33.97,0:23:37.02,Black and Red,,0,0,0,mochi,{\blur0.765\b1\fscx116\fscy116\pos(964.5,223.672)}Kỳ Tới
+Dialogue: 0,0:23:33.97,0:23:37.02,Black and Red,,0,0,0,mochi,{\blur0.765\b1\fscx116\an4\fscy116\pos(550.5,493.672)\fsp4.5}Gia Đình Tsubasa                Phần Ba
