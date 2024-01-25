@@ -16,18 +16,16 @@ Audio File: ../raws/Extras/[OZR] Nekomonogatari Black - NCED1b (BD 1080p HEVC Op
 Video File: ../raws/Extras/[OZR] Nekomonogatari Black - NCED1b (BD 1080p HEVC Opus) [7648E125].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 16
-Active Line: 17
-Video Position: 536
+Video Zoom Percent: 0.875000
+Video Position: 645
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED,VL DellaRobbia BT,75,&H00000000,&H000000FF,&H1E26CAE9,&H96000000,0,0,0,0,100,100,0,0,1,4,0,3,75,75,30,1
+Style: ED,VL DellaRobbia BT,75,&H00FFFFFF,&H000000FF,&H1E212121,&H96000000,0,0,0,0,100,100,0,0,1,4,0,1,75,75,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:18.25,0:00:18.29,ED,,0,0,0,sync,{frame-static}
+Comment: 0,0:00:26.88,0:00:26.92,ED,,0,0,0,sync,{frame-round}
 Dialogue: 0,0:00:18.25,0:00:20.92,ED,,0,0,0,,{\fad(200,200)\blur4.8}Mặc dù vậy chúng ta vẫn,
 Dialogue: 0,0:00:20.92,0:00:23.71,ED,,0,0,0,,{\fad(200,200)\blur4.8}như thể đã bàn trước với nhau,
 Dialogue: 0,0:00:23.71,0:00:27.95,ED,,0,0,0,,{\fad(200,200)\blur4.8}đều thấu tình đạt lý, cười sảng khoái.

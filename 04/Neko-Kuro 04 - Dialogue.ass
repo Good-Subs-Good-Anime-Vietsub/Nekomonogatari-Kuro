@@ -17,9 +17,8 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 04 (BD 1080p HEVC Opus) [E97103
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 251
-Active Line: 256
-Video Position: 21403
+Active Line: 5
+Video Position: 42354
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +31,6 @@ Style: Black and Red,VL DellaRobbia BT,50,&H00FFFFFF,&H000019FF,&H00000000,&H000
 Style: Blogemonogatari,Gentium,30,&H00000000,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Blogemonogatari 2,Iwata Mincho Pro-Madoka L,60,&H00FFFFFF,&H000019FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: vertical,CenturyOldStyle-Light,60,&H003DCEE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: OP,Arkona-Regular,98,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,53,53,30,1
-Style: ED,Birch Std,108,&H00000000,&H000000FF,&H1E26CAE9,&H96000000,0,0,0,0,100,100,0,0,1,4,0,3,75,75,30,1
 Style: naoetsu,Gaze,68,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Meowpire,brush-tipTerrence trial,68,&H00281615,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: nekomonodottari,MTO Telephone,53,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
@@ -50,6 +47,8 @@ Comment: 0,0:00:22.00,0:00:22.00,Main,chptr,0,0,0,,{OP}
 Comment: 0,0:01:52.09,0:01:52.13,Main,chptr,0,0,0,,{Episode}
 Comment: 0,0:29:00.09,0:29:00.09,Main,chptr,0,0,0,,{ED}
 Comment: 0,0:30:30.09,0:30:30.14,Main,chptr,0,0,0,,{Preview}
+Comment: 10,0:00:58.45,0:00:58.50,Main,,0,0,0,opsync,
+Comment: 10,0:29:26.49,0:29:26.54,Main,,0,0,0,edsync,
 Dialogue: 12,0:00:05.46,0:00:08.69,Main,,0,0,0,,{\i1}Về phần còn lại của Tuần lễ Vàng,\N tôi đã trải qua những gì ư?
 Dialogue: 12,0:00:09.32,0:00:10.19,Main,,0,0,0,,{\i1}Phải,
 Dialogue: 12,0:00:10.19,0:00:12.57,Main,,0,0,0,,{\i1}tôi dành nó... để quỳ lạy.
