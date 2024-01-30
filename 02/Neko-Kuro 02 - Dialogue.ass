@@ -18,12 +18,13 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 02 (BD 1080p HEVC Opus) [C4802D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Active Line: 6
+Scroll Position: 247
+Active Line: 296
 Video Position: 31645
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Ubuntu Dialogue,75,&H00FFFFFF,&H000019FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,3.9963,0,2,12,12,50,1
+Style: Main,KiOZ Gandhi Sans Dialogue,74,&H00FFFFFF,&H000019FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,4,0,2,12,12,50,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000019FF,&H00081945,&H971C47C6,0,0,0,0,100,100,0,0,1,3.9963,1.99815,2,10,10,60,1
 Style: GT,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000019FF,&H97000000,&H82000000,0,0,0,0,100,100,0,0,3,0.0999074,0,8,10,10,30,1
@@ -280,7 +281,7 @@ Dialogue: 10,0:17:08.63,0:17:11.92,Main,,0,0,0,,Nhưng đúng là bất ngờ th
 Dialogue: 10,0:17:11.92,0:17:16.72,Main,,0,0,0,,Bởi vừa cho cô ấy hút máu,\N tôi cứ tưởng là sẽ phục hồi nhanh hơn cơ.
 Dialogue: 10,0:17:16.72,0:17:20.05,Main,,0,0,0,,Không, với khả năng bất tử hiện giờ \Ncủa Araragi-kun,
 Dialogue: 10,0:17:20.05,0:17:22.87,Main,,0,0,0,,thì có thể chịu được hầu hết \Ncác vết thương nặng.
-Dialogue: 10,0:17:22.87,0:17:26.31,Main,,0,0,0,,Chỉ cần không phải chí mạng,\N thì sẽ phục ngay và luôn.
+Dialogue: 10,0:17:22.87,0:17:26.31,Main,,0,0,0,,Chỉ cần không phải chí mạng,\N thì sẽ hồi phục ngay và luôn.
 Dialogue: 10,0:17:26.31,0:17:27.48,Main,,0,0,0,,Thế nhưng, trong vụ này...
 Dialogue: 10,0:17:29.61,0:17:30.98,Main,,0,0,0,,vấn đề nằm ở đối phương.
 Dialogue: 10,0:17:32.23,0:17:34.70,Main,,0,0,0,,Mà không hẳn là "đối phương",\N đúng hơn là "tương thích".
@@ -337,7 +338,7 @@ Dialogue: 10,0:20:05.11,0:20:06.40,Main,,0,0,0,,Araragi-kun này.
 Dialogue: 10,0:20:06.40,0:20:09.18,Main,,0,0,0,,Thôi cậu về đi không ở nhà lại lo.
 Dialogue: 10,0:20:10.06,0:20:12.05,Main,,0,0,0,,Cái điện thoại trong túi cậu...
 Dialogue: 10,0:20:12.05,0:20:14.51,Main,,0,0,0,,coi bộ rung hơi bị gắt đó.
-Dialogue: 10,0:20:14.51,0:20:16.19,Main,,0,0,0,,Nói được gọi là "‘vibrate" nhở?
+Dialogue: 10,0:20:14.51,0:20:16.19,Main,,0,0,0,,Nói được gọi là "vibrate" nhở?
 Dialogue: 10,0:20:18.15,0:20:20.69,Main,,0,0,0,,Hình như... toàn là của Karen và Tsukihi.
 Dialogue: 10,0:20:21.13,0:20:25.05,Main,,0,0,0,,Không như bé lớp trưởng, \Ncậu có gia đình lo cho,
 Dialogue: 10,0:20:25.05,0:20:27.49,Main,,0,0,0,,nên biết đường mà về đi, Araragi-kun.
