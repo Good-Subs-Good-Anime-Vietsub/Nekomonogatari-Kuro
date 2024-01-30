@@ -16,6 +16,8 @@ Video File: C:/Users/mochioka/Downloads/Video/[OZR] Nekomonogatari Black - 02 (B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
+Scroll Position: 882
+Active Line: 911
 Video Position: 3814
 
 [V4+ Styles]
@@ -926,30 +928,30 @@ Dialogue: 0,0:14:44.32,0:14:44.36,Black and Red,,0,0,0,mochi,{\blur4\pos(962.9,8
 Dialogue: 0,0:14:44.36,0:14:44.40,Black and Red,,0,0,0,mochi,{\blur4\pos(963.06,817.43)\fscx100\fscy100\c&HFFFFFF&\frz0\alpha&H80&\1a&H00&}Hoạt Cảnh số      373
 Dialogue: 0,0:14:44.40,0:14:44.44,Black and Red,,0,0,0,mochi,{\blur4\pos(962.86,817.17)\fscx100\fscy100\c&HFFFFFF&\frz0\alpha&H80&\1a&H00&}Hoạt Cảnh số      373
 Dialogue: 0,0:14:44.44,0:14:44.48,Black and Red,,0,0,0,mochi,{\blur4\pos(962.9,817.66)\fscx100\fscy100\c&HFFFFFF&\frz0\alpha&H80&\1a&H00&}Hoạt Cảnh số      373
-Dialogue: 0,0:14:44.48,0:14:44.53,Black and Red,,0,0,0,mochi,{\blur4\pos(963,817.5)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.53,0:14:44.57,Black and Red,,0,0,0,mochi,{\blur4\pos(962.77,817.66)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.57,0:14:44.61,Black and Red,,0,0,0,mochi,{\blur4\pos(962.96,817.28)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.61,0:14:44.65,Black and Red,,0,0,0,mochi,{\blur4\pos(962.75,817.33)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.65,0:14:44.69,Black and Red,,0,0,0,mochi,{\blur4\pos(962.52,817.29)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.69,0:14:44.73,Black and Red,,0,0,0,mochi,{\blur4\pos(962.93,817.35)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.73,0:14:44.78,Black and Red,,0,0,0,mochi,{\blur4\pos(963.05,817.41)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.78,0:14:44.82,Black and Red,,0,0,0,mochi,{\blur4\pos(962.84,817.07)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.82,0:14:44.86,Black and Red,,0,0,0,mochi,{\blur4\pos(962.85,817.59)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.86,0:14:44.90,Black and Red,,0,0,0,mochi,{\blur4\pos(962.95,817.64)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.90,0:14:44.94,Black and Red,,0,0,0,mochi,{\blur4\pos(962.83,817.16)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.94,0:14:44.98,Black and Red,,0,0,0,mochi,{\blur4\pos(962.71,816.93)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:44.98,0:14:45.03,Black and Red,,0,0,0,mochi,{\blur4\pos(963.05,817.17)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:45.03,0:14:45.07,Black and Red,,0,0,0,mochi,{\blur4\pos(962.93,817.24)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:45.07,0:14:45.11,Black and Red,,0,0,0,mochi,{\blur4\pos(962.53,817.38)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:45.11,0:14:45.15,Black and Red,,0,0,0,mochi,{\blur4\pos(962.79,817.08)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:45.15,0:14:45.19,Black and Red,,0,0,0,mochi,{\blur4\pos(963.24,817.29)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:14:45.19,0:14:45.23,Black and Red,,0,0,0,mochi,{\blur4\pos(963.15,817.37)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      374
-Dialogue: 0,0:15:05.00,0:15:05.05,Black and Red,,0,0,0,mochi,{\blur4\pos(963,817.5)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
-Dialogue: 0,0:15:05.05,0:15:05.09,Black and Red,,0,0,0,mochi,{\blur4\pos(962.69,817.54)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
-Dialogue: 0,0:15:05.09,0:15:05.13,Black and Red,,0,0,0,mochi,{\blur4\pos(962.94,817.25)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
-Dialogue: 0,0:15:05.13,0:15:05.17,Black and Red,,0,0,0,mochi,{\blur4\pos(962.7,817.27)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
-Dialogue: 0,0:15:05.17,0:15:05.21,Black and Red,,0,0,0,mochi,{\blur4\pos(962.46,817.23)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
-Dialogue: 0,0:15:05.21,0:15:05.25,Black and Red,,0,0,0,mochi,{\blur4\pos(962.95,817.24)\fscx100\fscy100\frz0\alpha&H80&\1a&H00&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:14:44.48,0:14:44.53,Black and Red,,0,0,0,mochi,{\blur4\pos(963,817.5)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.53,0:14:44.57,Black and Red,,0,0,0,mochi,{\blur4\pos(962.77,817.66)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.57,0:14:44.61,Black and Red,,0,0,0,mochi,{\blur4\pos(962.96,817.28)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.61,0:14:44.65,Black and Red,,0,0,0,mochi,{\blur4\pos(962.75,817.33)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.65,0:14:44.69,Black and Red,,0,0,0,mochi,{\blur4\pos(962.52,817.29)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.69,0:14:44.73,Black and Red,,0,0,0,mochi,{\blur4\pos(962.93,817.35)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.73,0:14:44.78,Black and Red,,0,0,0,mochi,{\blur4\pos(963.05,817.41)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.78,0:14:44.82,Black and Red,,0,0,0,mochi,{\blur4\pos(962.84,817.07)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.82,0:14:44.86,Black and Red,,0,0,0,mochi,{\blur4\pos(962.85,817.59)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.86,0:14:44.90,Black and Red,,0,0,0,mochi,{\blur4\pos(962.95,817.64)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.90,0:14:44.94,Black and Red,,0,0,0,mochi,{\blur4\pos(962.83,817.16)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.94,0:14:44.98,Black and Red,,0,0,0,mochi,{\blur4\pos(962.71,816.93)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:44.98,0:14:45.03,Black and Red,,0,0,0,mochi,{\blur4\pos(963.05,817.17)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:45.03,0:14:45.07,Black and Red,,0,0,0,mochi,{\blur4\pos(962.93,817.24)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:45.07,0:14:45.11,Black and Red,,0,0,0,mochi,{\blur4\pos(962.53,817.38)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:45.11,0:14:45.15,Black and Red,,0,0,0,mochi,{\blur4\pos(962.79,817.08)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:45.15,0:14:45.19,Black and Red,,0,0,0,mochi,{\blur4\pos(963.24,817.29)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:14:45.19,0:14:45.23,Black and Red,,0,0,0,mochi,{\blur4\pos(963.15,817.37)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      374
+Dialogue: 0,0:15:05.00,0:15:05.05,Black and Red,,0,0,0,mochi,{\blur4\pos(963,817.5)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:15:05.05,0:15:05.09,Black and Red,,0,0,0,mochi,{\blur4\pos(962.69,817.54)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:15:05.09,0:15:05.13,Black and Red,,0,0,0,mochi,{\blur4\pos(962.94,817.25)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:15:05.13,0:15:05.17,Black and Red,,0,0,0,mochi,{\blur4\pos(962.7,817.27)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:15:05.17,0:15:05.21,Black and Red,,0,0,0,mochi,{\blur4\pos(962.46,817.23)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
+Dialogue: 0,0:15:05.21,0:15:05.25,Black and Red,,0,0,0,mochi,{\blur4\pos(962.95,817.24)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số      387
 Dialogue: 0,0:15:35.53,0:15:35.58,Black and Red,,0,0,0,mochi,{\blur4\pos(963,832.5)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số     Không Có
 Dialogue: 0,0:15:35.58,0:15:35.62,Black and Red,,0,0,0,mochi,{\blur4\pos(962.74,832.5)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số     Không Có
 Dialogue: 0,0:15:35.62,0:15:35.66,Black and Red,,0,0,0,mochi,{\blur4\pos(962.95,831.83)\fscx100\fscy100\frz0\alpha&H80&\c&HFFFFFF&}Hoạt Cảnh số     Không Có

@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/mochioka/Downloads/Video/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
-Video File: C:/Users/mochioka/Downloads/Video/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
+Audio File: E:/[OZR] Nekomonogatari Black (BD 1080p HEVC Opus)/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
+Video File: E:/[OZR] Nekomonogatari Black (BD 1080p HEVC Opus)/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 774
-Active Line: 777
-Video Position: 30346
+Scroll Position: 784
+Active Line: 795
+Video Position: 35096
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -408,18 +408,18 @@ Dialogue: 0,0:05:42.15,0:05:42.19,Black and Red,,0,0,0,,{\blur4\alpha&H80&\c&HFF
 Dialogue: 0,0:05:42.19,0:05:42.23,Black and Red,,0,0,0,,{\blur4\alpha&H80&\c&HFFFFFF&\fscx100\fscy100\pos(960.03,812.247)}Hoạt Cảnh số     89
 Dialogue: 0,0:05:42.23,0:05:42.28,Black and Red,,0,0,0,,{\blur4\alpha&H80&\c&HFFFFFF&\fscx100\fscy100\pos(959.9,811.908)}Hoạt Cảnh số     89
 Dialogue: 0,0:05:42.28,0:05:42.32,Black and Red,,0,0,0,,{\blur4\alpha&H80&\c&HFFFFFF&\fscx100\fscy100\pos(959.87,811.548)}Hoạt Cảnh số     89
-Dialogue: 0,0:06:19.60,0:06:19.65,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(960,812.247)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.65,0:06:19.69,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.78,812.367)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.69,0:06:19.73,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.92,812.077)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.73,0:06:19.77,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.77,812.187)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.77,0:06:19.81,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.51,812.077)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.81,0:06:19.85,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.9,812.097)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.85,0:06:19.90,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(960.06,812.167)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.90,0:06:19.94,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.86,811.868)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.94,0:06:19.98,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.88,812.367)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:19.98,0:06:20.02,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.99,812.367)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:20.02,0:06:20.06,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.86,812.017)\b1}Hoạt Cảnh số     104
-Dialogue: 0,0:06:20.06,0:06:20.10,Black and Red,,0,0,0,,{\blur0.799\shad0.749\c&HFFFFFF&\fscx100\fscy100\pos(959.73,811.688)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.60,0:06:19.65,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(960,812.247)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.65,0:06:19.69,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.78,812.367)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.69,0:06:19.73,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.92,812.077)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.73,0:06:19.77,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.77,812.187)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.77,0:06:19.81,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.51,812.077)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.81,0:06:19.85,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.9,812.097)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.85,0:06:19.90,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(960.06,812.167)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.90,0:06:19.94,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.86,811.868)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.94,0:06:19.98,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.88,812.367)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:19.98,0:06:20.02,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.99,812.367)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:20.02,0:06:20.06,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.86,812.017)\b1}Hoạt Cảnh số     104
+Dialogue: 0,0:06:20.06,0:06:20.10,Black and Red,,0,0,0,,{\blur1.2\shad0\c&HFFFFFF&\fscx100\fscy100\pos(959.73,811.688)\b1}Hoạt Cảnh số     104
 Dialogue: 1,0:07:35.85,0:07:35.89,Black and Red,,0,0,0,,{\blur0.938\c&HE4E8EB&\frz0\alpha&H00&\1a&H00&\fscx100\fscy100\pos(960,812.247)}Hoạt Cảnh số     124
 Dialogue: 1,0:07:35.89,0:07:35.93,Black and Red,,0,0,0,,{\blur0.938\c&HE4E8EB&\frz0\alpha&H00&\1a&H00&\fscx100\fscy100\pos(959.76,812.307)}Hoạt Cảnh số     124
 Dialogue: 1,0:07:35.93,0:07:35.97,Black and Red,,0,0,0,,{\blur0.938\c&HE4E8EB&\frz0\alpha&H00&\1a&H00&\fscx100\fscy100\pos(960.01,811.997)}Hoạt Cảnh số     124
