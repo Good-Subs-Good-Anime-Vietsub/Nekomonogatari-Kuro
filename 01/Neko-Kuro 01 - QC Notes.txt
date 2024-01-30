@@ -1,0 +1,47 @@
+======================
+Dia:
+======================
+
+Cái loại anh giai dậy rồi \Ncòn lăn ra ngủ tiếp thì nên chết đi thì hơn.
+{*[Note]  thay "thì hơn" thành "còn hơn", đỡ lặp từ "thì"*}
+
+Thế... yêu đường gì nào, Onī-chan?
+{*[Note]  yêu đương*}
+
+Rồi... đến cả lúc anh đọc sách tại đó,\N a cứ nghĩ thế này...
+{*[Note]  a --> anh*}
+
+"Ôi, mua sách này thì H-san ghét mình mất."
+{*[Note]  "sẽ ghét mình mất" cho cùng cấu trúc với câu trước*}
+
+anh chợt nghĩ thế và lặng lẽ để sách lại kệ.
+{*[Note]  câu trước chấm cuối câu*}
+
+Nó chỉ như anh đang "giả nhân giả nghĩa" để\N lý giải cho cảm xúc của mình mà thôi.
+{*[Note]  chuyển từ "để" xuống dòng dưới*}
+
+Thế rốt cuộc ý định của em là gì?
+{*[Note]  dòng này với dòng dưới nên để Left = 300 cho nó ra giữa khung*}
+
+(xem intro điệp viện 007 là hiểu)
+{*[Note]  điệp viện --> điệp viên (ở GT2)*}
+
+Bố mẹ mà tớ đang sống cùng hiện giờ\N không cùng huyết thống.
+{*[Note]  "không có chung" hoặc "không chung" huyết thống, đỡ lặp với từ cùng kia*}
+
+Sao cậu có thể thản nhiên nói vậy cơ chứ!
+{*[Note]  có thể lược bớt từ "cơ", cảm giác hơi thừa*}
+
+trước sự chân thành của tớ \Nrồi miễn cường đồng ý giữ im lặng chứ?
+{*[Note]  miễn cường --> miễn cưỡng*}
+
+======================
+TS:
+======================
+
+00:00 - Nếu được tôi muốn quên chúng đi,
+--> Nếu được, tôi muốn quên chúng đi,
+00:00 - dù là biết chẳng thể quên
+--> dù biết là chẳng thể quên
+
+======================
