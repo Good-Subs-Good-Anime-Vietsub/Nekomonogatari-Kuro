@@ -31,3 +31,5 @@ build/*
 raws/Extras/\[OZR\] Nekomonogatari Black - NCED1a (BD 1080p HEVC Opus) \[4C97538C\]_keyframes.txt
 raws/Extras/\[OZR\] Nekomonogatari Black - NCED1b (BD 1080p HEVC Opus) \[7648E125\]_keyframes.txt
 raws/Extras/\[OZR\] Nekomonogatari Black - NCOP1 (BD 1080p HEVC Opus) \[2A65203E\]_keyframes.txt
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar

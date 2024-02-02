@@ -17,9 +17,9 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF3
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 481
-Active Line: 499
-Video Position: 36682
+Scroll Position: 401
+Active Line: 421
+Video Position: 30106
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +62,7 @@ Dialogue: 10,0:00:15.49,0:00:16.12,Main,,0,0,0,,Chết đi!
 Dialogue: 10,0:00:19.12,0:00:20.52,Main,,0,0,0,,Tsu-Tsukihi!
 Dialogue: 10,0:00:20.52,0:00:21.38,Main,,0,0,0,,Mày làm cái quái gì thế?!
 Dialogue: 10,0:00:21.38,0:00:22.75,Main,,0,0,0,,Tính giết anh mày đấy à!
-Dialogue: 10,0:00:22.75,0:00:26.17,Main,,0,0,0,,Cái loại anh giai dậy rồi \Ncòn lăn ra ngủ tiếp thì nên chết đi thì hơn.
+Dialogue: 10,0:00:22.75,0:00:26.17,Main,,0,0,0,,Cái loại anh giai dậy rồi \Ncòn lăn ra ngủ tiếp thì nên chết đi còn hơn.
 Dialogue: 10,0:00:26.88,0:00:30.00,Main,,0,0,0,,Em và Karen-chan đã mất công gọi dậy \Nvậy mà còn lăn ra ngủ tiếp,
 Dialogue: 10,0:00:30.00,0:00:31.63,Main,,0,0,0,,không tài nào hiểu nổi.
 Dialogue: 10,0:00:31.63,0:00:32.65,Main,,0,0,0,,{\fad(0,200)}Nên chết đi thì hơn!
@@ -79,7 +79,7 @@ Dialogue: 10,0:00:57.16,0:01:00.33,Main,,0,0,0,,Tuần Lễ Vàng còn chưa tr�
 Dialogue: 10,0:01:01.37,0:01:01.83,Main,,0,0,0,,À phải.
 Dialogue: 10,0:01:02.58,0:01:04.71,Main,,0,0,0,,Bàn chuyện yêu đương đi, Tsukihi-chan.
 Dialogue: 10,0:01:05.08,0:01:05.87,Main,,0,0,0,,Yêu?
-Dialogue: 10,0:02:40.76,0:02:44.36,Main,,0,0,0,,Thế... yêu đường gì nào, Onī-chan?
+Dialogue: 10,0:02:40.76,0:02:44.36,Main,,0,0,0,,Thế... yêu đương gì nào, Onī-chan?
 Dialogue: 10,0:02:44.36,0:02:46.45,Main,,0,0,0,,Em đang học cấp 2, và đã có người yêu rồi.
 Dialogue: 10,0:02:46.45,0:02:47.38,Main,,0,0,0,,Chắc là...
 Dialogue: 10,0:02:47.38,0:02:50.51,Main,,0,0,0,,em đã có nhiều kinh nghiệm\N về yêu đương đồng trang lứa các thứ,
@@ -134,8 +134,8 @@ Dialogue: 10,0:05:00.46,0:05:03.70,Main,,0,0,0,,nên anh cứ nghĩ \Nbiết đ�
 Dialogue: 10,0:05:03.70,0:05:07.04,Main,,0,0,0,,Rồi... đến cả lúc anh đọc sách tại đó,\N a cứ nghĩ thế này...
 Dialogue: 10,0:05:07.04,0:05:10.46,Main,,0,0,0,,"Ồ, chắc là H-san sẽ thích câu này."
 Dialogue: 10,0:05:11.09,0:05:12.82,Main,,0,0,0,,Rồi cả lúc anh tính mua sách đen nữa...
-Dialogue: 10,0:05:12.82,0:05:16.16,Main,,0,0,0,,"Ôi, mua sách này thì H-san ghét mình mất."
-Dialogue: 10,0:05:16.16,0:05:20.34,Main,,0,0,0,,anh chợt nghĩ thế và lặng lẽ để sách lại kệ.
+Dialogue: 10,0:05:12.82,0:05:16.16,Main,,0,0,0,,"Ôi, mua sách này thì H-san sẽ ghét mình mất"
+Dialogue: 10,0:05:16.16,0:05:20.34,Main,,0,0,0,,...anh chợt nghĩ thế và lặng lẽ để sách lại kệ.
 Dialogue: 10,0:05:20.34,0:05:23.01,Main,,0,0,0,,Onī-chan, anh không cần nói toạc ra như thế.
 Dialogue: 10,0:05:23.01,0:05:25.20,Main,,0,0,0,,Em không muốn dính vô đời tư cá nhân.
 Dialogue: 10,0:05:25.20,0:05:29.31,Main,,0,0,0,,Hay đúng hơn, em không muốn nghe chuyện \NOnī-chan đắn đo mua sách đen.
@@ -178,7 +178,7 @@ Dialogue: 10,0:06:42.12,0:06:44.38,Main,,0,0,0,,Em có thể kể ra cả đốn
 Dialogue: 10,0:06:44.85,0:06:49.89,Main,,0,0,0,,Đẹp giai này, tốt bụng này,\N cao ráo này, giàu có này.
 Dialogue: 10,0:06:51.58,0:06:54.60,Main,,0,0,0,,Lý do thì có mà đầy.
 Dialogue: 10,0:06:54.60,0:06:57.04,Main,,0,0,0,,Nhưng toàn bộ là điêu hết.
-Dialogue: 10,0:06:57.04,0:07:01.83,Main,,0,0,0,,Nó chỉ như anh đang "giả nhân giả nghĩa" để\N lý giải cho cảm xúc của mình mà thôi.
+Dialogue: 10,0:06:57.04,0:07:01.83,Main,,0,0,0,,Nó chỉ như anh đang "giả nhân giả nghĩa" \Nđể lý giải cho cảm xúc của mình mà thôi.
 Dialogue: 10,0:07:01.83,0:07:04.41,Main,,0,0,0,,Giống biện minh hơn là lý do.
 Dialogue: 10,0:07:04.41,0:07:06.27,Main,,0,0,0,,Kiểu như anh chốt rằng anh yêu người ta ấy,
 Dialogue: 10,0:07:06.27,0:07:09.33,Main,,0,0,0,,xong rồi anh làm một cái thang \Nđể leo lên từng bậc.
@@ -254,8 +254,8 @@ Dialogue: 10,0:10:00.24,0:10:02.74,Main,,0,0,0,,Au ui!~
 Dialogue: 10,0:10:02.74,0:10:05.74,Main,,0,0,0,,Đau lắm ấy! Bỏ ra! Bỏ ra!\N Buông ra mau!
 Dialogue: 10,0:10:07.49,0:10:08.98,Main,,0,0,0,,Đủ rồi nhá!
 Dialogue: 10,0:10:08.98,0:10:11.12,Main,,0,0,0,nhấtquán.nise10,Onī-chan!\N Sờ ngực em gái hơi bị nhiều rồi đấy.
-Dialogue: 10,0:10:11.73,0:10:15.47,Main,,0,0,180,,Thế rốt cuộc ý định của em là gì?
-Dialogue: 10,0:10:15.47,0:10:20.51,Main,,0,0,180,,Em muốn gì khi ưỡn ngực ra như thế\N trước mặt anh?
+Dialogue: 10,0:10:11.73,0:10:15.47,Main,,300,0,180,,Thế rốt cuộc ý định của em là gì?
+Dialogue: 10,0:10:15.47,0:10:20.51,Main,,300,0,180,,Em muốn gì khi ưỡn ngực ra như thế\N trước mặt anh?
 Dialogue: 10,0:10:20.51,0:10:24.01,Main,,0,0,0,,À thì kiểu như em đùa thôi, \Nhay thử nghiệm ấy mà.
 Dialogue: 10,0:10:24.01,0:10:25.82,Main,,0,0,0,,Ý định của em là thế này,
 Dialogue: 10,0:10:25.82,0:10:30.02,Main,,0,0,0,,em đưa ngực ra còn anh bĩu môi nói:\N"Không, anh mày không thèm bộ ngực này!"
@@ -279,7 +279,7 @@ Dialogue: 10,0:11:07.31,0:11:09.20,Main,,0,0,0,,Phản tác dụng toàn tập.
 Dialogue: 10,0:11:09.20,0:11:12.15,Main,,0,0,0,,Onī-chan đã nhầm lẫn giữa \Nham muốn tình dục và tình yêu.
 Dialogue: 10,0:11:12.15,0:11:16.02,Main,,0,0,0,,Nó cứ thế tác dụng qua lại tạo thành "xoắn ốc gia tăng"\N khiến anh càng ngày càng {\c&H2BFFFD&}vã{\c}.
 Dialogue: 10,0:11:16.02,0:11:18.77,Main,,0,0,0,,Eo ôi! "Xoắn ốc gia tăng" luôn cơ à!
-Dialogue: 10,0:11:19.17,0:11:24.13,GT 2,,0,0,0,,(xem intro điệp viện 007 là hiểu)
+Dialogue: 10,0:11:19.17,0:11:24.13,GT 2,,0,0,0,,(xem intro điệp viên 007 là hiểu)
 Dialogue: 10,0:11:19.17,0:11:24.13,Main,,0,0,0,,Ý em là "hiện tượng điệp viên 007" gì đó\N đang diễn ra trong đầu anh à?
 Dialogue: 10,0:11:25.03,0:11:29.53,Main,,0,0,0,,Ừm, chính vì thế mà anh tùy tiện \N"touch" vào ngực em gái mình.
 Dialogue: 10,0:11:29.53,0:11:31.15,Main,,0,0,0,,Vậy là anh "touch" rồi à.
@@ -394,7 +394,7 @@ Dialogue: 10,0:17:25.89,0:17:29.77,Main,,0,0,0,nhấtquán.bake11,Bố dượng 
 Dialogue: 10,0:17:29.77,0:17:33.11,Main,,0,0,0,nhấtquán.bake11,Và rồi mẹ kế lại cưới một người khác, \Ntức bố dượng hiện tại của tớ này.
 Dialogue: 10,0:17:34.48,0:17:38.74,Main,,0,0,0,nhấtquán.bake11,Tóm lại là bố mẹ hiện tại của cậu \Nkhông phải bố mẹ đẻ à?
 Dialogue: 10,0:17:38.74,0:17:39.76,Main,,0,0,0,,Phải.
-Dialogue: 10,0:17:39.76,0:17:45.12,Main,,0,0,0,,Bố mẹ mà tớ đang sống cùng hiện giờ\N không cùng huyết thống.
+Dialogue: 10,0:17:39.76,0:17:45.12,Main,,0,0,0,,Bố mẹ mà tớ đang sống cùng hiện giờ\N không chung huyết thống.
 Dialogue: 10,0:17:46.92,0:17:48.50,Main,,0,0,0,,Nói chung là hoàn toàn xa lạ.
 Dialogue: 10,0:17:50.71,0:17:53.01,Main,,0,0,0,,"Không cùng {\i1}huyết thống{\i0} thì hoàn toàn xa lạ",
 Dialogue: 10,0:17:53.63,0:17:56.50,Main,,0,0,0,,câu này mà đem nói với ma cà rồng\N thì cười cho thối mũi ha.
@@ -432,7 +432,7 @@ Dialogue: 10,0:19:36.61,0:19:39.61,Main,,0,0,0,,{\i1}Hanekawa là bạn tôi, \N
 Dialogue: 10,0:19:41.73,0:19:43.80,Main,,0,0,0,,{\i1}thật lòng tôi thấy tiếc cho cậu ấy.
 Dialogue: 10,0:19:44.85,0:19:46.54,Main,,0,0,0,nhấtquán.bake11,Bạo lực mà lại là lẽ tất yếu...
 Dialogue: 10,0:19:46.54,0:19:47.72,Main,,0,0,0,không.nhấtquán.bake11,Cậu nói cái gì thế?
-Dialogue: 10,0:19:47.72,0:19:50.04,Main,,0,0,0,nhấtquán.bake11,Sao cậu có thể thản nhiên nói vậy cơ chứ!
+Dialogue: 10,0:19:47.72,0:19:50.04,Main,,0,0,0,nhấtquán.bake11,Sao cậu có thể thản nhiên nói vậy chứ!
 Dialogue: 10,0:19:50.04,0:19:52.12,Main,,0,0,0,nhấtquán.bake11,Lẽ ra đây phải là điều mà cậu khó tha thứ nhất!
 Dialogue: 10,0:19:52.12,0:19:54.62,Main,,0,0,0,nhấtquán.bake11,Có sao đâu! Một lần thôi mà!
 Dialogue: 10,0:19:56.50,0:19:59.25,Main,,0,0,0,nhấtquán.bake11,{\fad(0,200)}Hứa rồi mà đúng không, Araragi-kun?
@@ -464,7 +464,7 @@ Dialogue: 10,0:20:48.13,0:20:49.43,Main,,0,0,0,,{\an8}Ơ-Ơ kìa?
 Dialogue: 10,0:20:49.43,0:20:50.51,Main,,0,0,0,,{\an8}Cái phản ứng đó là sao?
 Dialogue: 10,0:20:51.02,0:20:52.88,Main,,0,0,0,,Chả lẽ ở cảnh này nó phải thế sao?
 Dialogue: 10,0:20:52.88,0:20:55.66,Main,,0,0,0,,Lẽ ra đây phải là cảnh \Nmà Araragi-kun cảm động...
-Dialogue: 10,0:20:55.66,0:20:59.18,Main,,0,0,0,,trước sự chân thành của tớ \Nrồi miễn cường đồng ý giữ im lặng chứ?
+Dialogue: 10,0:20:55.66,0:20:59.18,Main,,0,0,0,,trước sự chân thành của tớ \Nrồi miễn cưỡng đồng ý giữ im lặng chứ?
 Dialogue: 10,0:20:59.18,0:21:00.16,Main,,0,0,0,,Chân thành?!
 Dialogue: 10,0:21:00.16,0:21:01.27,Main,,0,0,0,,Là cái gì thế? Cóc biết!
 Dialogue: 10,0:21:01.81,0:21:02.61,Main,,0,0,0,,"Bất cứ điều gì" à~
@@ -557,110 +557,3 @@ Dialogue: 10,0:25:58.64,0:26:01.49,Main,,0,0,150,preview,{\i1}nhưng bị đè b
 Dialogue: 10,0:26:01.49,0:26:03.15,Main,,0,0,150,preview,{\i1}Nhà ngươi là ma cà rồng à?
 Dialogue: 10,0:26:04.08,0:26:06.54,Main,,0,0,150,preview,{\i1}Kỳ tới, Gia đình Tsubasa, phần 2!
 Dialogue: 10,0:26:07.12,0:26:08.89,Main,,0,0,150,preview,{\i1}Mọi sinh vật sống đều là gia đình!
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"fe466b3d-31d8-40e4-b086-00078f38c129"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\pos(960#2C810)\\fscx80\\fscy75\\alpha&H80&}Scene no. 1"}
-Data: 1,a-mo,e{"uuid"#3A"f4fce49c-ca61-42d7-a22d-f1c85b114252"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C810)\\fscx80\\fscy75}Scene no. 1"}
-Data: 2,a-mo,e{"uuid"#3A"0435b0b4-f2c4-4844-92db-c12329804fc6"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\pos(960#2C810)\\fscx80\\fscy75\\alpha&H80&}Scene no. 1"}
-Data: 3,a-mo,e{"uuid"#3A"474b4378-d95e-4e86-93a8-b7e3ea636c63"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C810)\\fscx80\\fscy75}Scene no. 1"}
-Data: 6,a-mo,e{"uuid"#3A"d843044e-ad19-45e3-b68f-d8610073daee"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334\\alpha&H50&}Kneel"}
-Data: 7,a-mo,e{"uuid"#3A"ef3647c4-ce1d-4ff3-b3cd-1948434b336c"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334}Kneel"}
-Data: 8,a-mo,e{"uuid"#3A"cc4e9d19-ef17-4fe4-b129-5d6d082ed690"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 34"}
-Data: 9,a-mo,e{"uuid"#3A"334d6c55-2b55-4595-bb53-0a3b43c46b85"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 34"}
-Data: 10,a-mo,e{"uuid"#3A"4d1a2262-5831-423f-b174-3af8bd1ccd90"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 51"}
-Data: 11,a-mo,e{"uuid"#3A"3d358040-77fc-4b99-9ca7-e2cae47ac957"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 51"}
-Data: 12,a-mo,e{"uuid"#3A"06353cce-7ee9-4b7e-a50c-41d161059259"#2C"originalText"#3A"{\\blur3\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334\\alpha&H50&}Kneel"}
-Data: 13,a-mo,e{"uuid"#3A"cd6a48f8-b14e-4099-b048-07a8a8d990a8"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334}Kneel"}
-Data: 14,a-mo,e{"uuid"#3A"56a4b9b3-fc17-42c8-a021-fd950ef0ee4c"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 64"}
-Data: 15,a-mo,e{"uuid"#3A"507da66a-0bd7-4e21-afc0-2b585c0bd3ab"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 64"}
-Data: 16,a-mo,e{"uuid"#3A"501a6bb6-411a-4799-ab59-1646904f9c87"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 65"}
-Data: 17,a-mo,e{"uuid"#3A"f120bb8f-9a32-425f-b69c-12eb8062fd60"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 65"}
-Data: 18,a-mo,e{"uuid"#3A"83701d92-3752-425b-9f6f-19742f282fe0"#2C"originalText"#3A"{\\blur3\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334\\alpha&H50&}Kneel"}
-Data: 19,a-mo,e{"uuid"#3A"9d2cbce3-d0a0-4051-aabf-b40374d1b7cb"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334}Kneel"}
-Data: 20,a-mo,e{"uuid"#3A"72eafb83-0b1f-4f6b-a6d5-c703f6f3d7ff"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 89"}
-Data: 21,a-mo,e{"uuid"#3A"2c63af65-3f0a-491b-bb25-f12777ebc132"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 89"}
-Data: 22,a-mo,e{"uuid"#3A"fe95e6d1-7cde-47e9-b6ac-2b855ae41e85"#2C"originalText"#3A"{\\blur0.9\\shad0.45\\fscx202\\fscy197\\pos(967.5#2C370.5)}{0824}Rousokuzawa"}
-Data: 23,a-mo,e{"uuid"#3A"3e094454-33c1-4dcb-93b2-97adabbca08e"#2C"originalText"#3A"{\\blur0.8\\shad0.750000\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)\\b1}Scene no. 104"}
-Data: 24,a-mo,e{"uuid"#3A"24b86e20-c6d7-4648-8213-8a79f6715dae"#2C"originalText"#3A"{\\blur2.5\\fsp22.5\\pos(982.5#2C405)\\fscx135\\fscy131\\alpha&H80&}{0940}Go  all  the  way!"}
-Data: 25,a-mo,e{"uuid"#3A"f8735f16-a8db-40e9-b365-525f57a9d982"#2C"originalText"#3A"{\\blur0.9\\fsp22.5\\pos(982.5#2C405)\\fscx135\\fscy131}{0940}Go  all  the  way!"}
-Data: 26,a-mo,e{"uuid"#3A"865b80c0-07d4-432d-822e-f4b54b771532"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 124"}
-Data: 27,a-mo,e{"uuid"#3A"00cf1646-1720-4ca6-ae67-a3f0b58f6066"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 124"}
-Data: 28,a-mo,e{"uuid"#3A"6bcc32ed-1d02-42cc-a742-95dcadd058ff"#2C"originalText"#3A"{\\blur2.5\\fsp22.5\\pos(982.5#2C405)\\alpha&H80&\\fscx222\\fscy227}Yaybe!"}
-Data: 29,a-mo,e{"uuid"#3A"b34f303e-768b-4256-9218-d9e9f8f9b819"#2C"originalText"#3A"{\\blur0.9\\fsp22.5\\pos(982.5#2C405)\\fscx222\\fscy227}Yaybe!"}
-Data: 30,a-mo,e{"uuid"#3A"53f6aa3b-524f-40a9-acbd-ff55ad12b80c"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 125"}
-Data: 31,a-mo,e{"uuid"#3A"ad023efd-c4a8-4e21-aefa-e8bec7da13a0"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 125"}
-Data: 32,a-mo,e{"uuid"#3A"27918df7-d869-4fb7-abc0-0805a43a3a74"#2C"originalText"#3A"{\\blur2.5\\fsp22.5\\pos(982.5#2C405)\\fscx212\\fscy218\\alpha&H80&}Yaybe......"}
-Data: 33,a-mo,e{"uuid"#3A"11790cb6-63e3-4d05-a7aa-4b2fe901f735"#2C"originalText"#3A"{\\blur0.9\\fsp22.5\\pos(982.5#2C405)\\fscx212\\fscy218}Yaybe......"}
-Data: 34,a-mo,e{"uuid"#3A"7b63f16e-21cb-40ba-8f82-cb97842481a7"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 126"}
-Data: 35,a-mo,e{"uuid"#3A"38636237-d806-44db-82ec-fac4013a23d4"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 126"}
-Data: 36,a-mo,e{"uuid"#3A"0b233fe1-2d0d-49f1-9154-089bcf35b910"#2C"originalText"#3A"{\\blur2.5\\fscx305\\fscy303\\pos(958.5#2C282)\\alpha&H80&}{1003}Gratitude"}
-Data: 37,a-mo,e{"uuid"#3A"3e13272a-e583-4fa9-a298-729e949215e0"#2C"originalText"#3A"{\\blur0.9\\fscx305\\fscy303\\pos(958.5#2C282)}{1003}Gratitude"}
-Data: 38,a-mo,e{"uuid"#3A"9a8c5a0e-2b22-4413-853f-02d277ff3679"#2C"originalText"#3A"{\\blur1.2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 133"}
-Data: 39,a-mo,e{"uuid"#3A"8c7d47da-cdf0-40b9-951f-9d410d9ef76d"#2C"originalText"#3A"{\\blur3\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334\\alpha&H50&}Kneel"}
-Data: 40,a-mo,e{"uuid"#3A"ba370deb-274a-44ec-b804-fc64fec58c6b"#2C"originalText"#3A"{\\blur0.9\\c&HFFFFFF&\\pos(960#2C276)\\fscx330\\fscy334}Kneel"}
-Data: 41,a-mo,e{"uuid"#3A"5e7aa096-0266-4a80-a92a-f1f9f04a0e66"#2C"originalText"#3A"{\\blur2\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 152"}
-Data: 42,a-mo,e{"uuid"#3A"2aa7b369-b4e8-4b92-bfde-8d42155a2b91"#2C"originalText"#3A"{\\blur0.7\\c&HFFFFFF&\\fscx80\\fscy80\\pos(960#2C813)}Scene no. 152"}
-Data: 43,a-mo,e{"uuid"#3A"7259ad6a-d4e7-45bd-9b3f-036535ef8921"#2C"originalText"#3A"{\\blur3\\fscx258\\fscy250\\pos(960#2C300)}{1130}Nope"}
-Data: 44,a-mo,e{"uuid"#3A"58433c40-e03c-41f6-9856-65842b43f6ea"#2C"originalText"#3A"{\\blur0.7\\fscx258\\fscy250\\pos(960#2C300)}{1130}Nope"}
-Data: 45,a-mo,e{"uuid"#3A"c1dd60b3-a1f8-482b-abca-cca746a4e686"#2C"originalText"#3A"{\\blur0.9\\fscx80\\fscy80\\pos(960#2C810)}Scene no. 162"}
-Data: 46,a-mo,e{"uuid"#3A"d2db1d38-56dd-4f85-96cf-22fa5bb68f78"#2C"originalText"#3A"{\\blur3.5\\fscx140\\fscy140\\pos(960#2C540)\\alpha&HA0&}{1153}Without a word.\\N\\N\\NWithout any expression.\\N\\N\\NWithout thinking#2C I touched her without any further ado."}
-Data: 47,a-mo,e{"uuid"#3A"c5db4172-7014-4e52-a26b-50e7f2f83202"#2C"originalText"#3A"{\\blur0.7\\fscx140\\fscy140\\pos(960#2C540)\\alpha&H10&}{1153}Without a word.\\N\\N\\NWithout any expression.\\N\\N\\NWithout thinking#2C I touched her without any further ado."}
-Data: 48,a-mo,e{"uuid"#3A"397c6950-c172-49e9-aaea-e856e680e8f8"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\alpha&HA0&\\c&HFFFFFF&}Scene no. 169"}
-Data: 49,a-mo,e{"uuid"#3A"392fc985-45ad-417d-9013-4f668f3654c4"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 169"}
-Data: 51,a-mo,e{"uuid"#3A"61e914b1-b3eb-4448-8830-e4e3e6e14ef0"#2C"originalText"#3A"{\\blur0.9\\fscx350\\fscy350\\pos(946.5#2C816)}5"}
-Data: 53,a-mo,e{"uuid"#3A"6962eefd-9a07-4ded-bbd3-a24f776a636a"#2C"originalText"#3A"{\\blur0.9\\fscx350\\fscy350\\pos(927#2C817.5)}4"}
-Data: 55,a-mo,e{"uuid"#3A"e726d21a-f94d-4046-9104-b42d3738adef"#2C"originalText"#3A"{\\blur0.9\\fscx350\\fscy350\\pos(949.5#2C825)}3"}
-Data: 57,a-mo,e{"uuid"#3A"404423c9-1318-43c4-8657-5bb9453d3c7b"#2C"originalText"#3A"{\\blur0.9\\fscx350\\fscy350\\pos(940.5#2C837)}2"}
-Data: 59,a-mo,e{"uuid"#3A"0d8a4192-ceb3-4eb8-8ebf-533ba912be63"#2C"originalText"#3A"{\\blur0.9\\fscx350\\fscy350\\pos(936#2C825)}1"}
-Data: 60,a-mo,e{"uuid"#3A"de0ed107-c0ce-4aba-bc3b-cef4e96424b0"#2C"originalText"#3A"{\\blur2.6\\fsp12\\pos(972#2C405)\\fscx140\\fscy140\\alpha&H80&}{1203}Not  a  touch  but  a  catch"}
-Data: 61,a-mo,e{"uuid"#3A"8d19376f-8f76-4b85-861f-045738de45b5"#2C"originalText"#3A"{\\blur0.7\\fsp12\\pos(972#2C405)\\fscx140\\fscy140}{1203}Not  a  touch  but  a  catch"}
-Data: 62,a-mo,e{"uuid"#3A"a8232c91-cc03-4fbf-836b-ace16a80054f"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\alpha&HA0&\\c&HFFFFFF&}Scene no. 176"}
-Data: 63,a-mo,e{"uuid"#3A"88f610eb-af62-4c69-96eb-69e1e614cf29"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 176"}
-Data: 64,a-mo,e{"uuid"#3A"9c6d8890-74a8-4ad5-b1d5-26706955dc91"#2C"originalText"#3A"{\\blur0.9\\fscx145\\fscy146\\pos(963#2C427.5)}{1206}Red"}
-Data: 65,a-mo,e{"uuid"#3A"ddcb0a9f-744a-4101-b278-5c7934542d79"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C832.5)\\fscx80\\fscy80}Unnumbered scene"}
-Data: 66,a-mo,e{"uuid"#3A"67ae3620-d0b6-41a5-8bea-09b3bc0af534"#2C"originalText"#3A"{\\blur1.1\\fscx123\\fscy122\\pos(963#2C442.5)}{1349}Tsukihi#3A \"It was good#2C wasn't it?\"\\N\\N\\N\\NKoyomi#3A \"It wasn't bad.\""}
-Data: 67,a-mo,e{"uuid"#3A"7346f211-d6b1-4c9a-9eb1-d30eba98b01c"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 212"}
-Data: 68,a-mo,e{"uuid"#3A"dba6c2ae-c8e7-4da2-992d-98fa203f5b9f"#2C"originalText"#3A"{\\blur2.8\\fscx178\\fscy178\\pos(967.5#2C375)\\alpha&H80&}{1416}That's right."}
-Data: 69,a-mo,e{"uuid"#3A"abb30ecc-43e4-43f8-8101-468d1759853e"#2C"originalText"#3A"{\\blur0.9\\fscx178\\fscy178\\pos(967.5#2C375)}{1416}That's right."}
-Data: 70,a-mo,e{"uuid"#3A"19a502c4-721b-452f-8921-e9d0db159c48"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 223"}
-Data: 71,a-mo,e{"uuid"#3A"64e7635c-46c9-4be2-83a2-c35fd38b64c2"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 223"}
-Data: 72,a-mo,e{"uuid"#3A"8b07797a-d0bd-410c-a3d8-d28595bd0d5b"#2C"originalText"#3A"{\\blur2.8\\fscx126\\fscy130\\pos(969#2C279)\\alpha&H80&}{1419}I guess I was lucky I realized the truth after a single touch"}
-Data: 73,a-mo,e{"uuid"#3A"4513d5f2-48fe-44b3-8eba-f63937b4c490"#2C"originalText"#3A"{\\blur1\\fscx126\\fscy130\\pos(969#2C279)}{1419}I guess I was lucky I realized the truth after a single touch"}
-Data: 74,a-mo,e{"uuid"#3A"84ae6dd8-3249-4593-ab04-b7234edf0551"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 223"}
-Data: 75,a-mo,e{"uuid"#3A"4953d4aa-4b2f-4543-a29d-a1028bb4a441"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 223"}
-Data: 76,a-mo,e{"uuid"#3A"45f13287-a984-4b2f-bd34-b46173471c7c"#2C"originalText"#3A"{\\blur2.8\\fscx178\\fscy178\\pos(967.5#2C375)\\alpha&H80&}{1416}That's right."}
-Data: 77,a-mo,e{"uuid"#3A"b3b463be-2b13-42fe-af26-2556c56fe9e5"#2C"originalText"#3A"{\\blur0.9\\fscx178\\fscy178\\pos(967.5#2C375)}{1416}That's right."}
-Data: 78,a-mo,e{"uuid"#3A"5e3185a9-628f-4aa5-895f-d3576e2348a4"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 224"}
-Data: 79,a-mo,e{"uuid"#3A"24263f90-d661-4c9e-9336-cfab4e76a792"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 224"}
-Data: 80,a-mo,e{"uuid"#3A"7fad1bb3-755a-40bf-9850-a95474b433f4"#2C"originalText"#3A"{\\blur2.8\\fscx178\\fscy178\\pos(967.5#2C375)\\alpha&H80&}That's the conclusion?"}
-Data: 81,a-mo,e{"uuid"#3A"975eaac3-a4d2-4d47-a24a-1c8329103920"#2C"originalText"#3A"{\\blur0.9\\fscx178\\fscy178\\pos(967.5#2C375)}That's the conclusion?"}
-Data: 82,a-mo,e{"uuid"#3A"0403d30d-0845-4427-b95d-8753295a8f6c"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 234"}
-Data: 83,a-mo,e{"uuid"#3A"634f34d4-df41-430f-ac12-ffe96eb471ff"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 234"}
-Data: 84,a-mo,e{"uuid"#3A"b9aa632c-6ff4-42ad-ad2c-8ceefd3132c6"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 278"}
-Data: 85,a-mo,e{"uuid"#3A"4ce811da-4ff4-4a81-983d-5884a37bf931"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 278"}
-Data: 86,a-mo,e{"uuid"#3A"96e274e4-9d6d-4908-b590-411f19e9aca3"#2C"originalText"#3A"{\\blur2.8\\alpha&H80&\\pos(967.5#2C325.5)\\fscx214\\fscy230}{1416}Failure"}
-Data: 87,a-mo,e{"uuid"#3A"c54af342-c390-4d21-aad9-d83ece037625"#2C"originalText"#3A"{\\blur0.9\\pos(967.5#2C325.5)\\fscx214\\fscy230}{1416}Failure"}
-Data: 88,a-mo,e{"uuid"#3A"6feaa6d9-2ccb-456a-8e50-7099d7c47d3e"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 297"}
-Data: 89,a-mo,e{"uuid"#3A"e7e92578-afbf-493e-8924-af5c8947df32"#2C"originalText"#3A"{\\blur0.8\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 297"}
-Data: 90,a-mo,e{"uuid"#3A"15accca8-439f-453a-b36d-b18e733a042e"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 300"}
-Data: 91,a-mo,e{"uuid"#3A"8ea982ee-7ad2-4047-82f9-5a55e4a03095"#2C"originalText"#3A"{\\blur0.8\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 300"}
-Data: 92,a-mo,e{"uuid"#3A"a007e62e-721b-4b4b-93d2-3eef33971ff5"#2C"originalText"#3A"{\\blur0.9\\fscx145\\fscy146\\pos(963#2C427.5)}{1206}Red"}
-Data: 93,a-mo,e{"uuid"#3A"b08cdd67-78ea-4570-bcda-e47c4bd98226"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C832.5)\\fscx80\\fscy80}Unnumbered scene"}
-Data: 94,a-mo,e{"uuid"#3A"3dc69484-bcae-408f-a718-3231224b2e3e"#2C"originalText"#3A"{\\blur2.8\\fscx178\\fscy162\\pos(963#2C363)\\alpha&H80&}{2146}as her friend"}
-Data: 95,a-mo,e{"uuid"#3A"4f3067fc-c354-45d3-a39a-a88c14cb5f72"#2C"originalText"#3A"{\\blur0.9\\fscx178\\fscy162\\pos(963#2C363)}{2146}as her friend"}
-Data: 96,a-mo,e{"uuid"#3A"1d752c42-e91a-4d9e-a84a-0e0105b0aba6"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 373"}
-Data: 97,a-mo,e{"uuid"#3A"1821fdce-0f7c-4a64-95ad-91efcc643bae"#2C"originalText"#3A"{\\blur0.8\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 373"}
-Data: 98,a-mo,e{"uuid"#3A"18026f26-902d-4b59-bcb7-0c749d55266d"#2C"originalText"#3A"{\\blur0.9\\fscx135\\fscy135\\pos(960#2C300)}{2306}Ms Tsubasa will do whatever you demand of her#2C Araragi."}
-Data: 99,a-mo,e{"uuid"#3A"3b6fabe5-5684-4e1e-96b1-4a4f733dd3ab"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 412"}
-Data: 100,a-mo,e{"uuid"#3A"d3e7e82d-1253-4b4f-abcc-45f825551134"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 412"}
-Data: 101,a-mo,e{"uuid"#3A"0d079132-2f8b-47d9-bdf4-755824002caa"#2C"originalText"#3A"{\\blur2.6\\pos(960#2C361.5)\\fscx162\\fscy155\\alpha&H80&}{2307}Who's that Ms. Tsubasa?"}
-Data: 102,a-mo,e{"uuid"#3A"16900892-c466-4d73-8d31-8ca491b4bb43"#2C"originalText"#3A"{\\blur0.9\\pos(960#2C361.5)\\fscx162\\fscy155}{2307}Who's that Ms. Tsubasa?"}
-Data: 103,a-mo,e{"uuid"#3A"0313735a-aa2e-41eb-8578-aad1f722353a"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 413"}
-Data: 104,a-mo,e{"uuid"#3A"091f7027-7329-47be-8908-75eba3906d89"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 413"}
-Data: 105,a-mo,e{"uuid"#3A"daf6cec9-5571-4599-9df0-4ab22277cde1"#2C"originalText"#3A"{\\an4\\blur2.8\\alpha&H80&\\fscx116\\fscy113\\pos(228#2C238.5)}I was considering asking her to pretend \\N\\Nto be a teacher#2C and I accidentally said it."}
-Data: 106,a-mo,e{"uuid"#3A"9367a2ba-fee0-4406-acce-506b30df9137"#2C"originalText"#3A"{\\an4\\blur0.7\\fscx116\\fscy113\\pos(228#2C238.5)}I was considering asking her to pretend \\N\\Nto be a teacher#2C and I accidentally said it."}
-Data: 107,a-mo,e{"uuid"#3A"2fcf36af-dd47-4e29-ae2f-dc79842f671f"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 414"}
-Data: 108,a-mo,e{"uuid"#3A"5a48b5e8-52c9-45b7-824c-892e0ca88e24"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 414"}
-Data: 109,a-mo,e{"uuid"#3A"c0889cc9-7735-43be-86eb-e1315c80290d"#2C"originalText"#3A"{\\blur2.5\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&\\alpha&H80&}Scene no. 456"}
-Data: 110,a-mo,e{"uuid"#3A"9efaf6f5-6ea2-4b16-bed9-972be1f5fb38"#2C"originalText"#3A"{\\blur0.7\\pos(960#2C810)\\fscx80\\fscy80\\c&HFFFFFF&}Scene no. 456"}
-Data: 111,a-mo,e{"uuid"#3A"25f79b49-c43e-431e-960d-26273d1481ae"#2C"originalText"#3A"{\\bord3.3\\fsp4.5\\blur0.9\\c&HFBC4FF&\\3c&HDC45E2&\\fscx95\\fscy86\\pos(948#2C1051.5)}Ah#2C geez. You went too far fondling your sister's breasts there!"}
