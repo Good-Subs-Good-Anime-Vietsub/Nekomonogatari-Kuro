@@ -17,7 +17,8 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 04 (BD 1080p HEVC Opus) [E97103
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
+Scroll Position: 456
+Active Line: 505
 Video Position: 42354
 
 [V4+ Styles]
@@ -72,7 +73,7 @@ Dialogue: 12,0:03:13.83,0:03:16.21,Main,,0,0,0,,Bé lớp trưởng hình như �
 Dialogue: 12,0:03:16.73,0:03:19.46,Main,,0,0,0,,À thì bé lớp trưởng cũng hơi nhẹ cân ha.
 Dialogue: 12,0:03:24.72,0:03:25.73,Main,,0,0,0,,Thế là...
 Dialogue: 12,0:03:25.73,0:03:29.99,Main,,0,0,0,,bé lớp trưởng bị văng mạnh vào tường\N rồi gục xuống đau đớn một lúc...
-Dialogue: 12,0:03:29.99,0:03:32.60,Main,,0,0,0,,Cậu nghĩ sao đó sẽ như nào, Araragi{*}-kun{*}?
+Dialogue: 12,0:03:29.99,0:03:32.60,Main,,0,0,0,,Cậu nghĩ sau đó sẽ như nào, Araragi{*}-kun{*}?
 Dialogue: 12,0:03:33.10,0:03:36.98,Main,,0,0,0,,"Thế là không tốt, bố à, \Nbố không nên đánh vào mặt phụ nữ"
 Dialogue: 12,0:03:37.30,0:03:40.49,Main,,0,0,0,,Bé lớp trưởng nói vậy đấy, vừa nói vừa nở nụ cười.
 Dialogue: 12,0:03:41.88,0:03:45.75,Main,,0,0,0,,Ai lại nói thế sau khi bị bố đánh chứ!
@@ -99,7 +100,7 @@ Dialogue: 12,0:04:31.72,0:04:36.00,Main,,0,0,0,,Tất nhiên, bố mẹ của b�
 Dialogue: 12,0:04:37.54,0:04:39.16,Main,,0,0,0,,Thế nhưng, Araragi{*}-kun{*},
 Dialogue: 12,0:04:39.16,0:04:42.06,Main,,0,0,0,,làm sao ta có thể\N không hiểu cho cảm xúc của họ.
 Dialogue: 12,0:04:42.06,0:04:45.37,Main,,0,0,0,,Phải ở chung nhà với một người \Nchính trực đến mức độ đó,
-Dialogue: 12,0:04:45.37,0:04:48.57,Main,,0,0,0,,chưa kể đấy còn là con gái mình,\N chả phải quá kinh hoàng sao.
+Dialogue: 12,0:04:45.37,0:04:48.57,Main,,0,0,0,,chưa kể đấy còn là con gái mình,\N chả phải quá kinh khủng sao.
 Dialogue: 12,0:04:48.57,0:04:52.97,Main,,0,0,0,,Suốt hơn 10 năm trời,\N phải ở bên một người chính trực.
 Dialogue: 12,0:04:53.77,0:04:55.72,Main,,0,0,0,,Nói cách khác...
 Dialogue: 12,0:04:55.72,0:05:00.26,Main,,0,0,0,,chính là địa ngục nơi con người ta\N bị đày ải trước tủi nhục và non nớt của chính mình.
@@ -144,7 +145,7 @@ Dialogue: 12,0:06:51.25,0:06:55.15,Main,,0,0,0,,Đây có thể nói là ý tư�
 Dialogue: 12,0:06:55.15,0:06:57.77,Main,,0,0,0,,Nhưng chính vì đây là ý tưởng tốt nhất...
 Dialogue: 12,0:06:57.77,0:07:02.22,Main,,0,0,0,,nên rất có thể đây cũng là điều mà\N bé lớp trưởng cảnh giác nhất.
 Dialogue: 12,0:07:02.22,0:07:04.48,Main,,0,0,0,,Ý là đến cả Araragi-kun mà cũng nghĩ ra,
-Dialogue: 12,0:07:04.98,0:07:08.41,Main,,0,0,0,,thì chả lẽ cô ấy lại không tính trước được \Nvà chuẩn bị đề phòng sẵn sao?
+Dialogue: 12,0:07:04.98,0:07:08.41,Main,,0,0,0,,thì chả lẽ cô ấy lại không tính trước được \Nvà chuẩn bị đề phòng sao?
 Dialogue: 12,0:07:09.29,0:07:11.91,Main,,0,0,0,,Nếu bàn tới chuyện khả thi thì—đúng là thế thật.
 Dialogue: 12,0:07:12.40,0:07:16.71,Main,,0,0,0,,Tuy nhiên, tôi lại khá tự tin là sẽ thành công.
 Dialogue: 12,0:07:16.71,0:07:18.81,Main,,0,0,0,,Tôi có chiến lược riêng của mình.
@@ -211,7 +212,7 @@ Dialogue: 12,0:10:37.99,0:10:40.87,Main,,0,0,0,,Cá tính có thể thay đổi,
 Dialogue: 12,0:10:40.87,0:10:42.03,Main,,0,0,0,,Đó chính là cậu.
 Dialogue: 12,0:10:42.03,0:10:43.30,Main,,0,0,0,,Con người thật của cậu.
 Dialogue: 12,0:10:43.99,0:10:46.54,Main,,0,0,0,,Nếu cậu nhận được tin nhắn về \Nmột người bạn cần giúp đỡ,
-Dialogue: 12,0:10:46.54,0:10:49.46,Main,,0,0,0,,thì dù là tình thế nào, cục diện nào,
+Dialogue: 12,0:10:46.54,0:10:49.46,Main,,0,0,0,,thì dù tình hình thế nào, cục diện nào,
 Dialogue: 12,0:10:49.46,0:10:51.54,Main,,0,0,0,,cũng vội vã {\c&H1AE1FF&}rút kiếm xông pha{\}.
 Dialogue: 12,0:10:52.21,0:10:54.17,Main,,0,0,0,,Giống như bản năng của mèo,
 Dialogue: 12,0:10:54.17,0:10:56.42,Main,,0,0,0,,lao tới cuộn lông mà không cần suy nghĩ.
@@ -266,7 +267,7 @@ Dialogue: 12,0:13:04.96,0:13:06.84,Main,,0,0,0,,như thế thì có làm sao đ�
 Dialogue: 12,0:13:07.30,0:13:11.22,Main,,0,0,0,,Cậu có thể không may mắn \Nnhưng không có nghĩa là phải cảm thấy đau khổ.
 Dialogue: 12,0:13:11.22,0:13:14.81,Main,,0,0,0,,Chỉ vì không may mắn\N không có nghĩa là phải từ bỏ.
 Dialogue: 12,0:13:15.06,0:13:17.31,Main,,0,0,0,,Dù cho trời có sập, cậu cũng không sập.
-Dialogue: 12,0:13:18.81,0:13:23.32,Main,,0,0,0,,Điều cậu sẽ làm sau chuyện này\N là về nhà như chưa từng có chuyện gì xảy ra
+Dialogue: 12,0:13:18.81,0:13:23.32,Main,,0,0,0,,Việc cậu sẽ làm sau chuyện này,\N là về nhà như chưa từng có chuyện gì xảy ra.
 Dialogue: 12,0:13:23.32,0:13:27.08,Main,,0,0,0,,Hãy cùng với bố mẹ kế của cậu, \Nhai người vừa mới ra viện đó,
 Dialogue: 12,0:13:27.08,0:13:29.83,Main,,0,0,0,,sống một cuộc sống y hệt như trước kia.
 Dialogue: 12,0:13:29.83,0:13:32.70,Main,,0,0,0,,Liệu có thể hòa hợp với họ không ư, còn lâu.
@@ -333,7 +334,7 @@ Dialogue: 12,0:16:47.40,0:16:49.86,Main,,0,0,0,,Cậu đã làm gì tớ hả?!
 Dialogue: 12,0:16:53.90,0:16:55.74,Main,,0,0,0,,Đã chuẩn bị... một thanh kiếm sao?
 Dialogue: 12,0:16:56.20,0:16:57.49,Main,,0,0,0,,Phải.
 Dialogue: 12,0:16:57.49,0:16:59.99,Main,,0,0,0,,Tớ đã nuốt sẵn... một thanh kiếm...
-Dialogue: 12,0:17:00.33,0:17:04.62,Main,,0,0,0,,giống như một ảo thuật gia lâu đời.
+Dialogue: 12,0:17:00.33,0:17:04.62,Main,,0,0,0,,giống như một trò ảo thuật cũ rích.
 Dialogue: 12,0:17:07.21,0:17:08.59,Main,,0,0,0,,N-Nhưng mà...
 Dialogue: 12,0:17:08.59,0:17:09.29,Main,,0,0,0,,Nhưng mà...
 Dialogue: 12,0:17:09.29,0:17:10.92,Main,,0,0,0,,Nhưng mà, Araragi{*}-kun{*}!
@@ -341,7 +342,7 @@ Dialogue: 12,0:17:10.92,0:17:12.21,Main,,0,0,0,,Cơn đau này—
 Dialogue: 12,0:17:12.21,0:17:14.68,Main,,0,0,0,,Phải, không đau đâu ha.
 Dialogue: 12,0:17:14.68,0:17:16.22,Main,,0,0,0,,Bản thân cậu không đau.
 Dialogue: 12,0:17:16.22,0:17:19.14,Main,,0,0,0,,Thanh kiếm đó có tên Quái Dị Sát mà.
-Dialogue: 12,0:17:19.51,0:17:23.60,Main,,0,0,0,,Tớ mượn nó từ Ma cà rồng,\N một thành quỷ kiếm chỉ chém Quái Dị.
+Dialogue: 12,0:17:19.51,0:17:23.60,Main,,0,0,0,,Tớ mượn nó từ Ma cà rồng,\N một thanh quỷ kiếm chỉ chém Quái Dị.
 Dialogue: 12,0:17:23.60,0:17:28.27,Main,,0,0,0,,Nó không chém cậu,\N mà chỉ chém Chướng Miêu bên trong cậu.
 Dialogue: 12,0:17:28.77,0:17:33.03,Main,,0,0,0,,S-Sao lại có một thanh kiếm \Nnhảm nhí như thế chứ?
 Dialogue: 12,0:17:34.28,0:17:35.65,Main,,0,0,0,,Cậu không biết à?
@@ -360,9 +361,9 @@ Dialogue: 12,0:18:12.98,0:18:15.98,Main,,0,0,0,,Ngay cả cậu, cũng không ph
 Dialogue: 12,0:18:16.85,0:18:18.70,Main,,0,0,0,,cái gì cũng biết.
 Dialogue: 12,0:18:20.20,0:18:26.04,Main,,0,0,0,,Nên là... đừng tỏ ra như biết hết cả rồi để mà từ bỏ.
 Dialogue: 12,0:18:26.04,0:18:29.71,Main,,0,0,0,,Cái gì mà "tớ tốt nhất nên chết đi",\N nghe ngứa tai lắm.
-Dialogue: 12,0:18:29.71,0:18:33.88,Main,,0,0,0,,Cậu vẫn còn cả núi chuyện chưa biết được đây!
+Dialogue: 12,0:18:29.71,0:18:33.88,Main,,0,0,0,,Cậu vẫn còn cả núi chuyện chưa biết được đấy!
 Dialogue: 12,0:18:33.88,0:18:34.78,Main,,0,0,0,,Nên là...
-Dialogue: 12,0:18:34.78,0:18:38.19,Main,,0,0,0,,"Không biết hết đâu... biết gì biết nấy thôi."
+Dialogue: 12,0:18:34.78,0:18:38.19,Main,,0,0,0,,"Không biết hết đâu... biết gì biết nấy thôi"
 Dialogue: 12,0:18:38.19,0:18:40.30,Main,,0,0,0,,hãy nói câu đó như thường lệ đi.
 Dialogue: 12,0:18:43.01,0:18:44.60,Main,,0,0,0,,{\i1}Mình sẽ chết.
 Dialogue: 12,0:18:44.60,0:18:46.60,Main,,0,0,0,,{\i1}Chết dưới tay Hanekawa.
@@ -402,7 +403,7 @@ Dialogue: 12,0:20:46.30,0:20:47.43,Main,,0,0,0,,Làm ơn dừng lại đi!
 Dialogue: 12,0:20:47.43,0:20:49.56,Main,,0,0,0,,Ngươi bị ngu à, tên đầy tớ này?
 Dialogue: 12,0:20:52.23,0:20:54.80,Main,,0,0,0,,Việc đột ngột tắt nguồn dẫn đến...
 Dialogue: 12,0:20:54.80,0:20:57.23,Main,,0,0,0,,máy móc dễ hỏng hóc là chuyện bình thường.
-Dialogue: 12,0:20:58.86,0:21:02.49,Main,,0,0,0,,Ngươi hẳn là đã dùng bảo kiếm kiêu hãnh\N của lão nương một cách liều lĩnh,
+Dialogue: 12,0:20:58.86,0:21:02.49,Main,,0,0,0,,Ngươi hẳn là đã dùng bảo kiếm kiêu hãnh\N của lão nương một cách liều lĩnh.
 Dialogue: 12,0:21:02.49,0:21:04.70,GT 2,,0,0,0,,{\i1}(Ikizukuri - thường dùng trong sashimi)
 Dialogue: 12,0:21:02.49,0:21:04.70,Main,,0,0,0,,Quả là {\i1}lát cắt mĩ miều{\i0} cho một con Quái Dị.
 Dialogue: 12,0:21:04.70,0:21:06.11,Main,,0,0,0,,Xém chút là bật cười.
@@ -487,8 +488,8 @@ Dialogue: 12,0:25:56.91,0:25:59.62,Main,,0,0,0,,Thế còn cảm xúc của Hane
 Dialogue: 12,0:25:59.62,0:26:00.91,Main,,0,0,0,,Tất nhiên là có rồi.
 Dialogue: 12,0:26:02.62,0:26:05.16,Main,,0,0,0,,Có tình cảm thì mới bị thu hút chứ.
 Dialogue: 12,0:26:05.50,0:26:07.42,Main,,0,0,0,,Vừa là nạn nhân, vừa là hung thủ.
-Dialogue: 12,0:26:07.87,0:26:09.17,Main,,0,0,0,,Thậm chi còn là Quái Dị.
-Dialogue: 12,0:26:14.96,0:26:18.43,Main,,0,0,0,,Nhưn mà Araragi-kun\N cũng có cảm xúc riêng chứ nhỉ?
+Dialogue: 12,0:26:07.87,0:26:09.17,Main,,0,0,0,,Thậm chí còn là Quái Dị.
+Dialogue: 12,0:26:14.96,0:26:18.43,Main,,0,0,0,,Nhưng mà Araragi-kun\N cũng có cảm xúc riêng chứ nhỉ?
 Dialogue: 12,0:26:19.39,0:26:21.43,Main,,0,0,0,,Cảm xúc của tôi ư...
 Dialogue: 12,0:26:21.43,0:26:27.39,Main,,0,0,0,,Ta thì ta chắc chắn là cậu đã yêu bé lớp trưởng.
 Dialogue: 12,0:26:29.90,0:26:31.06,Main,,0,0,0,,Vớ vẩn không đâu.
@@ -501,7 +502,7 @@ Dialogue: 12,0:26:45.79,0:26:48.16,Main,,0,0,0,,Araragi-kun thấy ổn thì ổ
 Dialogue: 12,0:26:48.16,0:26:50.12,Main,,0,0,0,,Mà ta hỏi thì hỏi thế thôi,
 Dialogue: 12,0:26:50.12,0:26:54.59,Main,,0,0,0,,chứ cảm xúc Araragi-kun làm sao mà quan trọng bằng\N cảm xúc của bé lớp trưởng được.
 Dialogue: 12,0:26:54.59,0:26:56.71,Main,,0,0,0,,Bất kể Chướng Miêu có làm gì,
-Dialogue: 12,0:26:56.71,0:26:58.88,Main,,0,0,0,,bất kể Araragi-kun có làm gì.
+Dialogue: 12,0:26:56.71,0:26:58.88,Main,,0,0,0,,bất kể Araragi-kun có làm gì,
 Dialogue: 12,0:26:58.88,0:27:01.72,Main,,0,0,0,,con người ta chỉ có thể tự cứu lấy mình mà thôi.
 Dialogue: 12,0:27:02.10,0:27:05.72,Main,,0,0,0,,Ngoài ra, Hanekawa còn không cầu cứu.
 Dialogue: 12,0:27:06.64,0:27:09.10,Main,,0,0,0,,Tôi đã ước Hanekawa nhờ cậy vào tôi vậy mà...
@@ -536,86 +537,16 @@ Dialogue: 12,0:28:48.80,0:28:50.75,Main,,0,0,0,,{\i1}Tháng Năm, năm Araragi K
 Dialogue: 12,0:28:50.75,0:28:53.38,Main,,0,0,0,,{\i1}Một thứ gì đó không phải mối tình đầu đã—
 Dialogue: 12,0:28:53.38,0:28:54.58,Main,,0,0,0,,{\i1}"Thất tình".
 Dialogue: 12,0:28:55.88,0:28:57.54,Main,,0,0,0,,{\i1}Tôi đi lên cầu thang...
-Dialogue: 12,0:30:31.60,0:30:33.41,Main,preview,0,0,150,,Phần xem trước ảo giác hen.
-Dialogue: 12,0:30:33.41,0:30:35.55,Main,preview,0,0,150,,Nhà ngươi có biết {\c&H29FCFF&}shibanmushi{\c} là gì không?
-Dialogue: 12,0:30:35.55,0:30:37.86,Main,preview,0,0,150,,Được viết từ các chữ {\c&H29FCFF&}tử, phiên, trùng{\c}, \Ntức {\c&H29FCFF&}côn trùng, canh thức, cái chết.
-Dialogue: 12,0:30:37.86,0:30:40.31,Main,preview,0,0,150,,Trong tiếng Anh, được gọi là {\c&H29FCFF&}deathwatch beetle{\c}.
-Dialogue: 12,0:30:40.31,0:30:43.10,Main,preview,0,0,150,,Cả trong tiếng Anh lẫn tiếng Nhật \Nnghe đều ngầu nhỉ.
-Dialogue: 12,0:30:43.10,0:30:45.92,Main,preview,0,0,150,,Nó tạo ra âm thanh tích tắc như tiếng đồng hồ,
-Dialogue: 12,0:30:45.92,0:30:48.56,Main,preview,0,0,150,,kiểu kiểu đếm ngược đến cái chết ấy.
-Dialogue: 12,0:30:48.56,0:30:50.18,GT 2,preview,0,0,150,,{\i1}(tên chế, không có thật)
-Dialogue: 12,0:30:48.56,0:30:50.18,Main,preview,0,0,150,,Nên mới được gọi là {\c&H29FCFF&\i1}bọ canh tử{\c\i0}.
-Dialogue: 12,0:30:50.18,0:30:52.69,Main,preview,0,0,150,,Cái đồng hồ đó... zuyệt zời thật!
-Dialogue: 12,0:30:53.37,0:30:56.33,Main,preview,0,0,150,,Kỳ tới, Hổ Tsubasa, phần một.
-Dialogue: 12,0:30:56.33,0:30:59.95,GT 2,preview,0,0,0,,{\fscx92\fscy92}(Chết Vạn Lần - Banshi [Vạn Tử], Chờ Được Chết - Shiban [Tử Phiên], \NShiban không hẳn là Chờ Được Chết, mà đây là từ mới được thêm vào theo ngữ cảnh chơi chữ.)
-Dialogue: 12,0:30:56.33,0:30:59.95,Main,preview,0,0,150,,Tên đầy tớ của lão nương xứng đáng\N {\c&H29FCFF&}Chết Vạn Lần{\c} chứ không phải {\c&H29FCFF&}Chờ Được Chết{\c}.{我が従僕は死番ならぬ万死に値する - mệt vl cái câu này}
-
-[Aegisub Extradata]
-Data: 4,a-mo,e{"uuid"#3A"fff48a91-5538-445d-a901-56771cf6256a"#2C"originalText"#3A"{\\blur3.36\\fscx140\\fscy138\\pos(969#2C450)\\alpha&H80&}Periwinkle"}
-Data: 5,a-mo,e{"uuid"#3A"b76f06ef-0e93-4d24-a28d-ebfc9ebc7c6c"#2C"originalText"#3A"{\\blur0.96\\fscx140\\fscy138\\pos(969#2C450)}Periwinkle"}
-Data: 7,a-mo,e{"uuid"#3A"d2e87362-1f5f-4f8e-861b-79e503479668"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\c&H0&\\alpha&H80&\\b1}Curse{sawari wo}"}
-Data: 8,a-mo,e{"uuid"#3A"9aab5583-ffdf-476f-8ce3-765c9209756d"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130\\c&H0&\\b1}Curse{sawari wo}"}
-Data: 12,a-mo,e{"uuid"#3A"2df3541e-ffce-4eae-b284-85a75acedd86"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Curse everything she caressed{sawareru mono(butsu) ni sawari wo}"}
-Data: 13,a-mo,e{"uuid"#3A"46c8a942-de2d-44e4-b4a2-accc0e2967d1"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Curse everyone she caressed{sawareru mono(sha) ni sawari wo}"}
-Data: 14,a-mo,e{"uuid"#3A"df8d4f6a-95e5-437e-9493-610f7e6b9e12"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Curse everyone she caressed{sawareru mono(sha) ni sawari wo}"}
-Data: 16,a-mo,e{"uuid"#3A"2c8dc7b5-42cc-4513-acad-1e169a8ef266"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}As if flowers around her{sakihokoru ka no yau ni}"}
-Data: 17,a-mo,e{"uuid"#3A"0a7e5b56-97cc-49f2-b422-db9cb6a36b57"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}As if flowers around her{sakihokoru ka no yau ni}"}
-Data: 19,a-mo,e{"uuid"#3A"fa742a4e-34d7-49d0-ba6b-44da5187a67c"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}curses bloomed{motarashita}"}
-Data: 20,a-mo,e{"uuid"#3A"dcace927-f857-4e4f-befb-cb2b57bbca0c"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}curses bloomed{motarashita}"}
-Data: 29,a-mo,e{"uuid"#3A"ce6aaa4b-1842-47ba-8a59-c4e39ebf53a0"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Might be"}
-Data: 30,a-mo,e{"uuid"#3A"ff6f21bf-b171-4b9a-9761-a532e4242399"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Might be"}
-Data: 32,a-mo,e{"uuid"#3A"8a9971b8-ce77-42ab-bb65-3306d745cc47"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C300)\\fscx140\\fscy130\\alpha&H80&}You could call it my wishful thinking."}
-Data: 33,a-mo,e{"uuid"#3A"7e0a905a-3533-4365-be4d-8c8011253863"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C300)\\fscx140\\fscy130}You could call it my wishful thinking."}
-Data: 35,a-mo,e{"uuid"#3A"4c543cd0-d84e-4faf-bdb0-3498b50a8ea3"#2C"originalText"#3A"{\\blur3.36\\fscx140\\fscy130\\pos(849.856500#2C281.143500)\\alpha&H80&}I hope you don't expect me to help"}
-Data: 36,a-mo,e{"uuid"#3A"3256e0c3-cbbd-4ea3-959f-c5086c125198"#2C"originalText"#3A"{\\blur0.96\\fscx140\\fscy130\\pos(849.856500#2C281.143500)}I hope you don't expect me to help"}
-Data: 44,a-mo,e{"uuid"#3A"540be8cb-f0da-406c-bdf4-e73e6688e0b5"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}A vampire's going to kill me... Help me!"}
-Data: 45,a-mo,e{"uuid"#3A"1fbc0936-4734-4dff-b315-7ac8e5ca7339"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}A vampire's going to kill me... Help me!"}
-Data: 50,a-mo,e{"uuid"#3A"f734b861-ddfb-4652-9161-34e38a6ed3ba"#2C"originalText"#3A"{\\blur4.2\\fscx378\\fscy350\\pos(966#2C273)\\alpha&H80&}Oddity"}
-Data: 51,a-mo,e{"uuid"#3A"1a1cb91c-548a-48b0-b135-691df40f1f4c"#2C"originalText"#3A"{\\blur0.96\\fscx378\\fscy350\\pos(966#2C273)}Oddity"}
-Data: 53,a-mo,e{"uuid"#3A"02a3ded7-5ef5-4664-b99e-f9f841de1111"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Weren't you going to{boku wo kousei sarete}"}
-Data: 54,a-mo,e{"uuid"#3A"29b68e85-13a5-4d7c-bb0f-acc1f661a129"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Weren't you going to{boku wo kousei sarete}"}
-Data: 56,a-mo,e{"uuid"#3A"c5b2e47c-e672-4a46-b2ac-5dfebbed6dce"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}help me with my rehab?{kurerun ja nakatta no ka yo}"}
-Data: 57,a-mo,e{"uuid"#3A"f8621e6c-45b7-45e1-8cd3-7fbd08e64541"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}help me with my rehab?{kurerun ja nakatta no ka yo}"}
-Data: 59,a-mo,e{"uuid"#3A"bfcdc3cb-a4da-4ab3-8a37-ad44eeddc4ff"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}What's gonna happen{ to me}{omae ga gurete}"}
-Data: 60,a-mo,e{"uuid"#3A"6953d90d-b3e5-4e33-96ff-9269335de9c9"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}What's gonna happen{ to me}{omae ga gurete}"}
-Data: 65,a-mo,e{"uuid"#3A"b1debb39-9ce2-437c-b549-0159d03ddc30"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}if you go bad too?{dou sunda}"}
-Data: 66,a-mo,e{"uuid"#3A"d0b9ee04-a656-4952-9d86-60b39137b48a"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}if you go bad too?{dou sunda}"}
-Data: 70,a-mo,e{"uuid"#3A"637bb65c-873b-465e-82b4-adb24e67bc05"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C300)\\fscx140\\fscy130\\alpha&H80&}I even failed to become one though"}
-Data: 71,a-mo,e{"uuid"#3A"a9a7b257-085d-4bbe-b6a7-401fe1938470"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C300)\\fscx140\\fscy130}I even failed to become one though"}
-Data: 93,a-mo,e{"uuid"#3A"ae9b4bdf-045b-4012-98c7-482691c47c6b"#2C"originalText"#3A"{\\blur3.36\\fscx140\\fscy130\\pos(990#2C282)\\alpha&H80&}The Oddity Slayer only slays Oddities"}
-Data: 94,a-mo,e{"uuid"#3A"680f04b7-296d-40cd-b546-61ac23e40ade"#2C"originalText"#3A"{\\blur0.96\\fscx140\\fscy130\\pos(990#2C282)}The Oddity Slayer only slays Oddities"}
-Data: 99,a-mo,e{"uuid"#3A"f491ae71-f7f8-42d2-bc02-3bfdb1af9a8c"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Araragi Koyomi"}
-Data: 100,a-mo,e{"uuid"#3A"df0d8ff9-3881-456a-83ed-1ad23a75d11a"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Araragi Koyomi"}
-Data: 107,a-mo,e{"uuid"#3A"adff19f0-dff9-4dfc-9a24-e853deef7553"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Araragi Koyomi"}
-Data: 108,a-mo,e{"uuid"#3A"a9cb2a1f-d1e2-49a2-961a-01b26a5ff879"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Araragi Koyomi"}
-Data: 110,a-mo,e{"uuid"#3A"1a78549e-38b7-4c74-89a3-63f7f743a436"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Hanekawa Tsubasa"}
-Data: 111,a-mo,e{"uuid"#3A"0dc41d9f-5550-4668-9475-fa959e64ab54"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Hanekawa Tsubasa"}
-Data: 113,a-mo,e{"uuid"#3A"b823f30b-af1c-4a50-b2d5-03ab89db161a"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Classmate"}
-Data: 114,a-mo,e{"uuid"#3A"fe488eed-3f8e-4292-8062-518b1fe2eb9b"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Classmate"}
-Data: 116,a-mo,e{"uuid"#3A"87e29c9a-bb3a-4eb9-8079-57a503be0812"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Class president"}
-Data: 117,a-mo,e{"uuid"#3A"2e19d86d-d90a-4fbf-b97d-de8f0779516c"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Class president"}
-Data: 119,a-mo,e{"uuid"#3A"9a810d8c-1a28-475d-9b78-5a227f9415eb"#2C"originalText"#3A"{\\blur3.36\\fs144\\fsp24\\pos(963#2C270)\\fscx140\\fscy130\\alpha&H80&}Lifesaver"}
-Data: 120,a-mo,e{"uuid"#3A"bd9240fa-7e6d-4b08-82f9-67b6395ac8b8"#2C"originalText"#3A"{\\blur0.96\\fs144\\fsp24\\pos(963#2C270)\\fscx140\\fscy130}Lifesaver"}
-Data: 128,a-mo,e{"uuid"#3A"e5f7f881-650e-45e9-88c5-9794bbac0ee9"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}I started hearing"}
-Data: 129,a-mo,e{"uuid"#3A"01db42fe-5070-46ef-b251-1f1ddd395e35"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}I started hearing"}
-Data: 131,a-mo,e{"uuid"#3A"d938066b-513a-49d0-afa9-0395ed62fc90"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}hallucinations"}
-Data: 132,a-mo,e{"uuid"#3A"cc605daa-c3ac-407a-94a8-7b1c1c38dc24"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}hallucinations"}
-Data: 134,a-mo,e{"uuid"#3A"6d4532b6-ec40-4618-b14c-8ad2b66093e4"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Obsesserve"}
-Data: 135,a-mo,e{"uuid"#3A"0fef540a-a549-49e1-94a8-7e0501370919"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Obsesserve"}
-Data: 141,a-mo,e{"uuid"#3A"ca49a757-428b-40b8-855d-b0423c68709d"#2C"originalText"#3A"{\\blur3.36\\fscx140\\fscy130\\pos(855#2C360)\\alpha&H80&}The name is not more{namae kachi de mo}"}
-Data: 142,a-mo,e{"uuid"#3A"54139663-a7b1-4044-8617-26650689f167"#2C"originalText"#3A"{\\blur0.96\\fscx140\\fscy130\\pos(855#2C360)}The name is not more{namae kachi de mo}"}
-Data: 144,a-mo,e{"uuid"#3A"0245d43a-57fb-42e6-a34b-47995dd8d6ec"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}The name is not less{namae make de mo nai}"}
-Data: 145,a-mo,e{"uuid"#3A"e47fc279-e384-4c91-8422-0af72573209a"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}The name is not less{namae make de mo nai}"}
-Data: 147,a-mo,e{"uuid"#3A"6a4ef1a6-6707-406f-af02-dd4f3024422a"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}Superbly{migoto ni}"}
-Data: 148,a-mo,e{"uuid"#3A"bcf5ae61-9a32-4196-aa49-cfac80d236d5"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}Superbly{migoto ni}"}
-Data: 150,a-mo,e{"uuid"#3A"6ab15669-959e-47a9-9f0f-8111376a2f61"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C360)\\fscx140\\fscy130\\alpha&H80&}The name reflects what she is{na ga karada wo arawashiteiru}"}
-Data: 151,a-mo,e{"uuid"#3A"919a16d9-538a-4fd2-8a4c-1f6e2cd28395"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C360)\\fscx140\\fscy130}The name reflects what she is{na ga karada wo arawashiteiru}"}
-Data: 153,a-mo,e{"uuid"#3A"625e3413-45bd-47a8-953f-a025cde1234c"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C300)\\c&H0&\\fscx261\\fscy241\\alpha&H80&}Black Hanekawa"}
-Data: 154,a-mo,e{"uuid"#3A"e283b502-858f-4490-bf63-ee77afefb212"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C300)\\c&H0&\\fscx261\\fscy241}Black Hanekawa"}
-Data: 156,a-mo,e{"uuid"#3A"3e73fa26-5716-40a8-86bd-1a9dd9682e0a"#2C"originalText"#3A"{\\blur2.64\\fsp3\\pos(963#2C360)\\fscx140\\fscy130\\c&H0&\\alpha&H80&}Very  very  very  black  Hanekawa Tsubasa"}
-Data: 157,a-mo,e{"uuid"#3A"aa0ca5f5-ab8d-4ed9-8335-d35f6252cd77"#2C"originalText"#3A"{\\blur0.96\\fsp3\\pos(963#2C360)\\fscx140\\fscy130\\c&H0&}Very  very  very  black  Hanekawa Tsubasa"}
-Data: 163,a-mo,e{"uuid"#3A"7a141b7a-af98-4820-b551-c61fe336b9a5"#2C"originalText"#3A"{\\blur3.36\\fscx160\\fscy155\\pos(937.5#2C262.5)\\alpha&H80&}Opportunistic idealist"}
-Data: 164,a-mo,e{"uuid"#3A"f1f36d22-648c-4168-a9c9-1a3cbd8b9b80"#2C"originalText"#3A"{\\blur0.96\\fscx160\\fscy155\\pos(937.5#2C262.5)}Opportunistic idealist"}
-Data: 166,a-mo,e{"uuid"#3A"46847cd2-4ba9-4caf-81d6-79bcb6702308"#2C"originalText"#3A"{\\blur3.36\\pos(963#2C270)\\fscx140\\fscy130\\alpha&H80&}She wanted the monster to take all the responsibility"}
-Data: 167,a-mo,e{"uuid"#3A"4102f1c6-0cdc-4888-8298-4cff0bc80047"#2C"originalText"#3A"{\\blur0.96\\pos(963#2C270)\\fscx140\\fscy130}She wanted the monster to take all the responsibility"}
-Data: 169,a-mo,e{"uuid"#3A"c8984d09-3262-4db5-b693-d6089aaf38d9"#2C"originalText"#3A"{\\blur1.08\\shad0.3\\fscx140\\fscy130\\pos(1014#2C214.5)}I couldn't even die for Hanekawa"}
+Dialogue: 12,0:30:31.60,0:30:33.41,Main,preview,0,0,150,,{\i1}Phần xem trước ảo giác hen.
+Dialogue: 12,0:30:33.41,0:30:35.55,Main,preview,0,0,150,,{\i1}Nhà ngươi có biết {\c&H29FCFF&}shibanmushi{\c} là gì không?
+Dialogue: 12,0:30:35.55,0:30:37.86,Main,preview,0,0,150,,{\i1}Được viết từ các chữ {\c&H29FCFF&}tử, phiên, trùng{\c}, \Ntức {\c&H29FCFF&}côn trùng, canh thức, cái chết.
+Dialogue: 12,0:30:37.86,0:30:40.31,Main,preview,0,0,150,,{\i1}Trong tiếng Anh, được gọi là {\c&H29FCFF&}deathwatch beetle{\c}.
+Dialogue: 12,0:30:40.31,0:30:43.10,Main,preview,0,0,150,,{\i1}Cả trong tiếng Anh lẫn tiếng Nhật \Nnghe đều ngầu nhỉ.
+Dialogue: 12,0:30:43.10,0:30:45.92,Main,preview,0,0,150,,{\i1}Nó tạo ra âm thanh tích tắc như tiếng đồng hồ,
+Dialogue: 12,0:30:45.92,0:30:48.56,Main,preview,0,0,150,,{\i1}kiểu kiểu đếm ngược đến cái chết ấy.
+Dialogue: 12,0:30:48.56,0:30:50.18,GT 2,preview,0,0,150,,{\i0}(tên chế, không có thật)
+Dialogue: 12,0:30:48.56,0:30:50.18,Main,preview,0,0,150,,{\i1}Nên mới được gọi là {\c&H29FCFF&\i1}bọ canh tử{\c\i0}.
+Dialogue: 12,0:30:50.18,0:30:52.69,Main,preview,0,0,150,,{\i1}Cái đồng hồ đó... zuyệt zời thật!
+Dialogue: 12,0:30:53.37,0:30:56.33,Main,preview,0,0,150,,{\i1}Kỳ tới, Hổ Tsubasa, phần một.
+Dialogue: 12,0:30:56.33,0:30:59.95,GT 2,preview,0,0,0,,{\fscx92\fscy92\i1}(Chết Vạn Lần - Banshi [Vạn Tử], Chờ Được Chết - Shiban [Tử Phiên], \NShiban không hẳn là Chờ Được Chết, mà đây là từ mới được thêm vào theo ngữ cảnh chơi chữ.)
+Dialogue: 12,0:30:56.33,0:30:59.95,Main,preview,0,0,150,,{\i1}Tên đầy tớ của lão nương xứng đáng\N {\c&H29FCFF&}Chết Vạn Lần{\c} chứ không phải {\c&H29FCFF&}Chờ Được Chết{\c}.{我が従僕は死番ならぬ万死に値する - mệt vl cái câu này}

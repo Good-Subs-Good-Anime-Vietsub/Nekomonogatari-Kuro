@@ -17,9 +17,9 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 03 (BD 1080p HEVC Opus) [1F24D2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 370
-Active Line: 417
-Video Position: 36105
+Scroll Position: 396
+Active Line: 390
+Video Position: 34248
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -261,121 +261,121 @@ Dialogue: 10,0:13:25.21,0:13:26.79,Main,,0,0,0,,giống như "điểm mấu ch�
 Dialogue: 10,0:13:27.54,0:13:30.66,Main,,0,0,0,,Trước khi bé lớp trưởng và con mèo \Nhoàn toàn hòa vào làm một,
 Dialogue: 10,0:13:31.06,0:13:32.42,Main,,0,0,0,,phải hành động thôi.
 Dialogue: 10,0:14:15.38,0:14:20.51,Main,,0,0,0,,{\i1}Thường thì cặp ngực khủng của Hanekawa-san,\N vẫn luôn đè lên cái mặt bàn này ha.
-Dialogue: 10,0:14:27.14,0:14:30.18,Main,meo,0,0,0,,Mi đúng là đồ biến thái\N không có điểm dừng mà.
-Dialogue: 10,0:14:30.18,0:14:32.98,Main,meo,0,0,0,,Phát khiếp! Khiếp hơn cả Quái Dị.
-Dialogue: 10,0:14:32.98,0:14:36.65,Main,meo,0,0,0,,Mi vừa liếm bàn học của nữ sinh\N và hứng lên.
+Dialogue: 10,0:14:27.14,0:14:30.18,Main,meo,0,0,0,,Mi đúng là đồ biến thái\N hẻo có điểm dừng mừ.
+Dialogue: 10,0:14:30.18,0:14:32.98,Main,meo,0,0,0,,Phát khép! Khép hơn cả Quái Dị.
+Dialogue: 10,0:14:32.98,0:14:36.65,Main,meo,0,0,0,,Mi vừa liếm bàn học của nữ sinh\N và hứng loen.
 Dialogue: 10,0:14:36.65,0:14:38.02,Main,,0,0,0,,Ấ-Ấy, không có.
 Dialogue: 10,0:14:38.02,0:14:41.82,Main,,0,0,0,,M-Mà kệ đi, mi từ đâu chui ra thế,\N sao lại vào được đây?
-Dialogue: 10,0:14:41.82,0:14:43.40,Main,meo,0,0,0,,Kệ là kệ thế nào.
-Dialogue: 10,0:14:43.40,0:14:48.95,Main,meo,0,0,0,,Con sen, trên đời này còn việc gì khiếp hơn \N việc mi liếm bàn của chủ nhân à?
+Dialogue: 10,0:14:41.82,0:14:43.40,Main,meo,0,0,0,,Kệ là kệ thế nèo.
+Dialogue: 10,0:14:43.40,0:14:48.95,Main,meo,0,0,0,,Con sen, trên đời này còn việc gì khiếp hơn \N việc mi liếm bàn của chủ nhen à?
 Dialogue: 10,0:14:48.95,0:14:51.29,Main,,0,0,0,,Nói nhăng nói cuội cái gì thế, chả hiểu.
 Dialogue: 10,0:14:51.29,0:14:54.12,Main,,0,0,0,,Dù mi có nói gì đi nữa\N thì trước tòa ta cũng không thừa nhận.
-Dialogue: 10,0:14:59.91,0:15:00.88,Main,meo,0,0,0,,Sao thế?
-Dialogue: 10,0:15:00.88,0:15:03.55,Main,meo,0,0,0,,Trông mi không có vẻ gì là thù địch với ta, con sen à.
+Dialogue: 10,0:14:59.91,0:15:00.88,Main,meo,0,0,0,,Seo thế?
+Dialogue: 10,0:15:00.88,0:15:03.55,Main,meo,0,0,0,,Trông mi không có vẻ gì là thù địch với ta, \Ncon sen à.
 Dialogue: 10,0:15:03.55,0:15:08.43,Main,,0,0,0,,Thì ta cũng có làm được gì mi đâu, mèo à.
 Dialogue: 10,0:15:08.43,0:15:11.77,Main,,0,0,0,,Hơn nữa, mi cũng sẽ không giết ta... đúng chứ?
-Dialogue: 10,0:15:11.77,0:15:14.02,Main,meo,0,0,0,,Chịu... biết đâu được.
-Dialogue: 10,0:15:15.27,0:15:19.48,Main,meo,0,0,0,,Bòn Rút Năng Lượng của ta không phải kỹ năng\N mà là đặc tính rồi.
-Dialogue: 10,0:15:19.48,0:15:21.90,Main,meo,0,0,0,,Ta đâu có kiểm soát được.
-Dialogue: 10,0:15:21.90,0:15:24.44,Main,meo,0,0,0,,Muốn nhẹ nhàng nhưng đâu có được.
-Dialogue: 10,0:15:24.44,0:15:29.16,Main,meo,0,0,0,,Không muốn giết nhưng lại lỡ tay giết.
+Dialogue: 10,0:15:11.77,0:15:14.02,Main,meo,0,0,0,,Chịu... biết đeo được.
+Dialogue: 10,0:15:15.27,0:15:19.48,Main,meo,0,0,0,,Bòn Rút Năng Lượng của ta không phải kỹ năng\N mà là đẹc tính rồi.
+Dialogue: 10,0:15:19.48,0:15:21.90,Main,meo,0,0,0,,Ta đâu có kẻm soát được.
+Dialogue: 10,0:15:21.90,0:15:24.44,Main,meo,0,0,0,,Muốn nhẹ nhàng nhưng đeo có đẹc.
+Dialogue: 10,0:15:24.44,0:15:29.16,Main,meo,0,0,0,,Khem muốn giết nhưng lại lỡ tay giết.
 Dialogue: 10,0:15:29.58,0:15:34.45,Main,,0,0,0,,Dù là vậy, vẫn còn tốt hơn \Nviệc hễ gặp ai là mi lao vào cào cấu cắn xé.
 Dialogue: 10,0:15:34.45,0:15:37.04,Main,,0,0,0,,Không một ai có thể \Nchịu đựng được việc đó.
 Dialogue: 10,0:15:37.88,0:15:39.13,Main,meo,0,0,0,,Ý là Ma cà rồng ấy à?
-Dialogue: 10,0:15:39.13,0:15:43.84,Main,meo,0,0,0,,À thì, ta nào có cửa đọ lại với \NQuái Dị cấp cao như thế.
-Dialogue: 10,0:15:43.84,0:15:46.84,Main,meo,0,0,0,,Nhưng nhờ có {\c&H5AE2FF&}chiến thuật{\c} và {\c&H5AE2FF&}tầm nhìn{\c}\N của chủ nhân,
-Dialogue: 10,0:15:46.84,0:15:51.60,Main,meo,0,0,0,,mà ta có thể trở thành kẻ \Nthách thức được cả chuyên gia chuyên nghiệp.
-Dialogue: 10,0:15:51.60,0:15:53.27,Main,meo,0,0,0,,Đa tạ.
-Dialogue: 10,0:15:55.73,0:15:57.81,Main,meo,0,0,0,,Ta không phải loại trọng tình trọng nghĩa.
-Dialogue: 10,0:15:57.81,0:16:01.02,Main,meo,0,0,0,,Đúng hơn ta là loại ăn cháo đá bát.
-Dialogue: 10,0:16:01.02,0:16:06.45,Main,meo,0,0,0,,Nhưng riêng vụ lần này, \N ta sẵn sàng đền ơn đáp nghĩa.
+Dialogue: 10,0:15:39.13,0:15:43.84,Main,meo,0,0,0,,À thì, ta nèo có cửa đọ lại với \NQuái Dị cấp ceo như thế.
+Dialogue: 10,0:15:43.84,0:15:46.84,Main,meo,0,0,0,,Nhưng nhờ có {\c&H5AE2FF&}chiến thuật{\c} và {\c&H5AE2FF&}tầm nhìn{\c}\N của chủ nhen,
+Dialogue: 10,0:15:46.84,0:15:51.60,Main,meo,0,0,0,,mà ta có thể trở thành kẻ \Nthách thức được cả chuyên gia chuyên nghẹp.
+Dialogue: 10,0:15:51.60,0:15:53.27,Main,meo,0,0,0,,Đe tẹ.
+Dialogue: 10,0:15:55.73,0:15:57.81,Main,meo,0,0,0,,Ta khem phải loại trọng tình trọng nghĩa.
+Dialogue: 10,0:15:57.81,0:16:01.02,Main,meo,0,0,0,,Đúng hơn ta là loại ăn chéo đá bét.
+Dialogue: 10,0:16:01.02,0:16:06.45,Main,meo,0,0,0,,Nhưng riêng vụ lần này, \N ta sẵn sàng đèn ơn đép nghĩa.
 Dialogue: 10,0:16:10.70,0:16:14.45,Main,,0,0,0,,Mà, dù cả hai đều có Bòn Rút Năng Lượng,
 Dialogue: 10,0:16:14.45,0:16:17.46,Main,,0,0,0,,nhưng ta đoán giữa Chướng Miêu và Ma cà rồng\N lại hoàn toàn khác nhau.
 Dialogue: 10,0:16:17.46,0:16:19.96,Main,,0,0,0,,Bòn Rút Năng Lượng của Ma cà rồng là {\c&H5AE2FF&}bữa ăn{\c}.
 Dialogue: 10,0:16:20.46,0:16:22.59,Main,,0,0,0,,Còn của Chướng Miêu là {\c&H5AE2FF&}nguyền rủa{\c}.
-Dialogue: 10,0:16:23.63,0:16:24.71,Main,meo,0,0,0,,À thì, đúng rồi.
+Dialogue: 10,0:16:23.63,0:16:24.71,Main,meo,0,0,0,,À thì, đúng rèo.
 Dialogue: 10,0:16:24.71,0:16:26.49,Main,,0,0,0,,Chỉ là ta không hiểu,
 Dialogue: 10,0:16:26.49,0:16:29.38,Main,,0,0,0,,tại sao mi lại bạ đâu đánh đấy?
 Dialogue: 10,0:16:29.38,0:16:30.93,Main,,0,0,0,,Để mà nói về các loại Quái Dị,
 Dialogue: 10,0:16:30.93,0:16:32.44,Main,,0,0,0,,thì vốn từ đầu Chướng Miêu...
 Dialogue: 10,0:16:32.44,0:16:34.22,Main,,0,0,0,,đâu phải loại đi đánh người?
 Dialogue: 10,0:16:38.23,0:16:40.23,Main,,0,0,0,,Này mèo! Mi—
-Dialogue: 10,0:16:42.27,0:16:43.57,Main,meo,0,0,0,,Có gì đâu~
+Dialogue: 10,0:16:42.27,0:16:43.57,Main,meo,0,0,0,,Có gì đeo~
 Dialogue: 10,0:16:43.57,0:16:45.28,Main,meo,0,0,0,,Chỉ là giải sầu tí thôi.
 Dialogue: 10,0:16:46.03,0:16:49.78,Main,meo,0,0,0,,Lý do ta đánh người... đơn giản là để giải sầu.
 Dialogue: 10,0:16:50.28,0:16:52.78,Main,meo,0,0,0,,Kiểu như bấm chuông cửa trêu,\N hay vẽ bậy lên tường thôi.
-Dialogue: 10,0:16:52.78,0:16:54.28,Main,meo,0,0,0,,Không hơn không kém.
-Dialogue: 10,0:16:54.83,0:16:56.66,Main,meo,0,0,0,,Để xả căng thẳng thôi.
+Dialogue: 10,0:16:52.78,0:16:54.28,Main,meo,0,0,0,,Khem hơn khem kém.
+Dialogue: 10,0:16:54.83,0:16:56.66,Main,meo,0,0,0,,Để xả ceng thẻng thôi.
 Dialogue: 10,0:16:57.37,0:16:59.58,Main,,0,0,0,,Xả căng thẳng gì cơ?
 Dialogue: 10,0:16:59.58,0:17:01.00,Main,,0,0,0,,Thế là—
 Dialogue: 10,0:17:01.00,0:17:02.54,Main,,0,0,0,,Khoan đã, ý mi là sao?
 Dialogue: 10,0:17:02.54,0:17:04.75,Main,meo,0,0,0,,Ý kiến ý cò gì nữa.
-Dialogue: 10,0:17:04.75,0:17:06.46,Main,meo,0,0,0,,Rõ rành rành ra đấy còn gì.
-Dialogue: 10,0:17:06.46,0:17:09.05,Main,meo,0,0,0,,Mi cũng đã nhìn thấy \Nbên trong ngôi nhà đó rồi đúng không?
+Dialogue: 10,0:17:04.75,0:17:06.46,Main,meo,0,0,0,,Rõ rènh rènh ra đấy còn gì.
+Dialogue: 10,0:17:06.46,0:17:09.05,Main,meo,0,0,0,,Mi cũng đã nhìn thấy \Nbên trong ngôi nhà đó rồi đúng khem?
 Dialogue: 10,0:17:09.05,0:17:10.34,Main,,0,0,0,,Nhà nào cơ?
-Dialogue: 10,0:17:10.34,0:17:12.05,Main,meo,0,0,0,,Nhà chủ nhân ý.
+Dialogue: 10,0:17:10.34,0:17:12.05,Main,meo,0,0,0,,Nhà chủ nhen ý.
 Dialogue: 10,0:17:12.05,0:17:13.39,Main,meo,0,0,0,,Ta biết rõ mà.
 Dialogue: 10,0:17:13.39,0:17:16.01,Main,meo,0,0,0,,Mũi mèo hơi bị thính đấy.
-Dialogue: 10,0:17:16.01,0:17:20.56,Main,meo,0,0,0,,Khi ta quay về thay đồ,\N trong nhà tràn ngập mùi của mi.
+Dialogue: 10,0:17:16.01,0:17:20.56,Main,meo,0,0,0,,Khi ta quay về thay đồ,\N trong nhà trèn ngập mùi của mi.
 Dialogue: 10,0:17:23.77,0:17:25.93,Main,meo,0,0,0,,Trong căn nhà đó, trong gia đình đó,
-Dialogue: 10,0:17:25.93,0:17:28.40,Main,meo,0,0,0,,15 năm trời chủ nhân ta sống ở đó.
-Dialogue: 10,0:17:28.40,0:17:33.37,Main,meo,0,0,0,,Mi có tưởng tượng được chủ nhân \Nđã phải hứng chịu bao nhiêu áp lực không?
-Dialogue: 10,0:17:33.86,0:17:39.41,Main,meo,0,0,0,,Và để giải tỏa đống áp lực đó\N ta đã chơi khăm đám người tốt trong khu phố.
+Dialogue: 10,0:17:25.93,0:17:28.40,Main,meo,0,0,0,,15 năm trời chủ nhen ta sống ở đó.
+Dialogue: 10,0:17:28.40,0:17:33.37,Main,meo,0,0,0,,Mi có tưởng tượng được chủ nhen \Nđã phải hứng chịu bao nhiêu áp lực khem?
+Dialogue: 10,0:17:33.86,0:17:39.41,Main,meo,0,0,0,,Và để giải tỏa đống áp lực đó\N ta đã chơi khăm đám con sen tốt trong khu phố.
 Dialogue: 10,0:17:39.41,0:17:40.91,Main,meo,0,0,0,,Tất cả chỉ có thế.
 Dialogue: 10,0:17:40.91,0:17:45.04,Main,meo,0,0,0,,Chả liên quan tới {\i1}chướng{\i0} hay {\i1}nguyền{\i0} gì cả.
 Dialogue: 10,0:17:45.04,0:17:46.13,Main,,0,0,0,,Chả liên quan?
 Dialogue: 10,0:17:46.59,0:17:48.63,Main,,0,0,0,,{\i1}Quái Dị có thể làm được như vậy sao?
-Dialogue: 10,0:17:48.63,0:17:52.84,Main,meo,0,0,0,,Ta là dạng Quái Dị ma nhập,\N chiếm hữu cơ thể của chủ nhân.
+Dialogue: 10,0:17:48.63,0:17:52.84,Main,meo,0,0,0,,Ta là dạng Quái Dị ma nhập,\N chiếm hữu cơ thể của chủ nhen.
 Dialogue: 10,0:17:52.84,0:17:55.05,Main,meo,0,0,0,,Tức là cũng chiếm cả tâm trí.
-Dialogue: 10,0:17:55.05,0:18:00.14,Main,meo,0,0,0,,Thế nên ta biết rõ chủ nhân \Nđã phải chịu đựng những gì suốt 15 năm ròng.
-Dialogue: 10,0:18:00.64,0:18:05.19,Main,meo,0,0,0,,Thế nên ta mới giúp chủ nhân xả căng thẳng.
+Dialogue: 10,0:17:55.05,0:18:00.14,Main,meo,0,0,0,,Thế nên ta biết rõ chủ nhen \Nđã phải chịu đựng những gì suốt 15 năm ròng.
+Dialogue: 10,0:18:00.64,0:18:05.19,Main,meo,0,0,0,,Thế nên ta mới giúp chủ nhen xả ceng thẻng.
 Dialogue: 10,0:18:05.19,0:18:09.40,Main,,0,0,0,,Nhưng... nếu đúng là thế, thì mi đâu cần \Ntấn công những người không liên quan.
-Dialogue: 10,0:18:09.90,0:18:13.24,Main,meo,0,0,0,,Tiếc là ta chỉ biết có cách này thôi.
-Dialogue: 10,0:18:13.24,0:18:15.12,Main,meo,0,0,0,,Làm chuyện xấu vui mà.
-Dialogue: 10,0:18:15.12,0:18:17.91,Main,meo,0,0,0,,Gây chuyện cho người lạ vui thế còn gì.
-Dialogue: 10,0:18:18.41,0:18:21.08,Main,meo,0,0,0,,Không hợp lý, cũng chẳng phi lý.
-Dialogue: 10,0:18:21.08,0:18:24.75,Main,meo,0,0,0,,So với bản chất là \Nmặt trái, mặt đen của chủ nhân,
-Dialogue: 10,0:18:24.75,0:18:28.00,Main,meo,0,0,0,,mi không thấy ta đã có phần\N mềm mỏng hơn rồi sao?
+Dialogue: 10,0:18:09.90,0:18:13.24,Main,meo,0,0,0,,Tiếc là ta chỉ bét có cách này thôi.
+Dialogue: 10,0:18:13.24,0:18:15.12,Main,meo,0,0,0,,Làm choẹn xấu vui mừ.
+Dialogue: 10,0:18:15.12,0:18:17.91,Main,meo,0,0,0,,Gây choẹn cho người lạ vui thế còn gì.
+Dialogue: 10,0:18:18.41,0:18:21.08,Main,meo,0,0,0,,Khem hợp lý, cũng chẻng phi lý.
+Dialogue: 10,0:18:21.08,0:18:24.75,Main,meo,0,0,0,,So với bản chất là \Nmặt trái, mặt đen của chủ nhen,
+Dialogue: 10,0:18:24.75,0:18:28.00,Main,meo,0,0,0,,mi không thấy ta đã có phần\N mềm mỏng hơn rồi seo?
 Dialogue: 10,0:18:28.00,0:18:30.67,Main,meo,0,0,0,,Ít nhất là khi đem so với lúc\N ta xé nát cánh tay mi.
 Dialogue: 10,0:18:33.09,0:18:35.01,Main,,0,0,0,,Ta cũng thấy thế.
 Dialogue: 10,0:18:35.01,0:18:36.22,Main,meo,0,0,0,,Lại chả.
-Dialogue: 10,0:18:36.22,0:18:39.81,Main,meo,0,0,0,,Có nghĩa là, việc ta đang làm có hiệu quả.
+Dialogue: 10,0:18:36.22,0:18:39.81,Main,meo,0,0,0,,Có nghĩa là, việc ta đang làm là có hẹo quả.
 Dialogue: 10,0:18:39.81,0:18:41.89,Main,meo,0,0,0,,Đó, nên là mi cứ yên tâm đi.
-Dialogue: 10,0:18:41.89,0:18:45.94,Main,meo,0,0,0,,Chỉ cần tấn công thêm 500 người nữa thôi,\N là không cần phải xả căng thẳng nữa.
-Dialogue: 10,0:18:46.27,0:18:48.86,Main,meo,0,0,0,,Khi đó, Quái Dị là ta đây\N sẽ hoàn thành vai trò,
-Dialogue: 10,0:18:48.86,0:18:51.28,Main,meo,0,0,0,,ơn nghĩa được trả và biến mất.
+Dialogue: 10,0:18:41.89,0:18:45.94,Main,meo,0,0,0,,Chỉ cần tấn công thêm 500 người nữa thôi,\N là không cần phải xả ceng thẻng nữa.
+Dialogue: 10,0:18:46.27,0:18:48.86,Main,meo,0,0,0,,Khi đó, Quái Dị là ta đây\N sẽ hoèn thènh vai trò,
+Dialogue: 10,0:18:48.86,0:18:51.28,Main,meo,0,0,0,,ơn nghĩa được trả và biến mét.
 Dialogue: 10,0:18:52.15,0:18:57.12,Main,meo,0,0,0,,Nên là kêu thằng cha mặc áo aloha đó\N đừng có chõ mũi vào nữa.
-Dialogue: 10,0:18:57.12,0:19:01.29,Main,meo,0,0,0,,Ta không hiểu cho lắm, nhưng thằng cha đó\N muốn giúp chủ nhân ta đúng không?
+Dialogue: 10,0:18:57.12,0:19:01.29,Main,meo,0,0,0,,Ta không hiểu cho lắm, nhưng thằng cha đó\N muốn giúp chủ nhen ta đúng khem?
 Dialogue: 10,0:19:01.58,0:19:04.16,Main,meo,0,0,0,,Vậy mới nói... cứ để ta lo là được rồi.
 Dialogue: 10,0:19:07.92,0:19:10.63,Main,,0,0,0,,Tại sao mi lại làm tới nước này?
 Dialogue: 10,0:19:10.63,0:19:14.17,Main,,0,0,0,,Mi suy cho cùng chỉ là một yêu ma\N đang chiếm lấy Hanekawa thôi mà?
 Dialogue: 10,0:19:14.59,0:19:18.30,Main,,0,0,0,,Mi đâu đó lý do chính đáng nào \Nđể giúp đỡ Hanekawa.
 Dialogue: 10,0:19:18.30,0:19:20.66,Main,meo,0,0,0,,Nãy ta chả nói mãi rồi còn gì.
 Dialogue: 10,0:19:20.66,0:19:23.06,Main,meo,0,0,0,,Đây là để trả ơn dù cho có phi lý.
-Dialogue: 10,0:19:23.68,0:19:25.94,Main,meo,0,0,0,,Cơ mà nói dối đấy.
-Dialogue: 10,0:19:26.35,0:19:30.98,Main,meo,0,0,0,,Thành thật mà nói, ngoài việc chủ nhân\N cung cấp cho ta kiến thức,
-Dialogue: 10,0:19:30.98,0:19:33.49,Main,meo,0,0,0,,ta chẳng còn lý do nào \Nđể cảm thấy mắc nợ chủ nhân.
+Dialogue: 10,0:19:23.68,0:19:25.94,Main,meo,0,0,0,,Cơ mừ nói dối đấy.
+Dialogue: 10,0:19:26.35,0:19:30.98,Main,meo,0,0,0,,Thành thật mừ nói, ngoài việc chủ nhen\N cung cấp cho ta kiến thức,
+Dialogue: 10,0:19:30.98,0:19:33.49,Main,meo,0,0,0,,ta chẳng còn lý do nào \Nđể cảm thấy mắc nợ chủ nhen.
 Dialogue: 10,0:19:34.99,0:19:36.49,Main,,0,0,0,,Mi nói vậy là sao?
 Dialogue: 10,0:19:36.49,0:19:40.83,Main,,0,0,0,,Mi bị xe cán chết trên đường, \Nchính Hanekawa đã chôn cất mi cơ mà?
 Dialogue: 10,0:19:40.83,0:19:44.70,Main,,0,0,0,,Chả phải mi lợi dụng \Nlòng tốt, lòng trắc ẩn của cậu ấy sao?
-Dialogue: 10,0:19:44.70,0:19:47.00,Main,meo,0,0,0,,Không phải đâu.
-Dialogue: 10,0:19:47.00,0:19:50.25,Main,meo,0,0,0,,Đúng là có chuyện đó thật.
-Dialogue: 10,0:19:50.25,0:19:53.05,Main,meo,0,0,0,,Chủ nhân đã bế ta ra khỏi đường,
-Dialogue: 10,0:19:53.05,0:19:56.13,Main,meo,0,0,0,,đưa ta đến một nơi thoáng mát\N rồi chôn cất ta.
-Dialogue: 10,0:19:56.13,0:19:58.97,Main,meo,0,0,0,,Mi đánh giá như vậy không có gì sai.
-Dialogue: 10,0:20:01.22,0:20:03.06,Main,meo,0,0,0,,Chủ nhân ta vào lúc đó...
-Dialogue: 10,0:20:03.06,0:20:05.93,Main,meo,0,0,0,,không phải là thương cảm ta đâu.
-Dialogue: 10,0:20:05.93,0:20:08.04,Main,meo,0,0,0,nhấtquán.nekokuro02,Chủ nhân nhìn thấy ta chết trên đường,
-Dialogue: 10,0:20:08.04,0:20:11.40,Main,meo,0,0,0,nhấtquán.nekokuro02,thế là tiến lại chôn cất ta \Nnhư thói quen cơm bữa mà thôi.
-Dialogue: 10,0:20:11.40,0:20:13.19,Main,meo,0,0,0,,Hoàn toàn vô cảm.
+Dialogue: 10,0:19:44.70,0:19:47.00,Main,meo,0,0,0,,Không phải đeo.
+Dialogue: 10,0:19:47.00,0:19:50.25,Main,meo,0,0,0,,Đúng là có choẹn đó thật.
+Dialogue: 10,0:19:50.25,0:19:53.05,Main,meo,0,0,0,,Chủ nhen đã bế ta ra khỏi đường,
+Dialogue: 10,0:19:53.05,0:19:56.13,Main,meo,0,0,0,,đưa ta đến một nơi thoáng mát\N rồi chôn cét ta.
+Dialogue: 10,0:19:56.13,0:19:58.97,Main,meo,0,0,0,,Mi đánh giá như vậy khem có gì sai.
+Dialogue: 10,0:20:01.22,0:20:03.06,Main,meo,0,0,0,,Chủ nhen ta vào lúc đó...
+Dialogue: 10,0:20:03.06,0:20:05.93,Main,meo,0,0,0,,không phải là thương cảm ta đeo.
+Dialogue: 10,0:20:05.93,0:20:08.04,Main,meo,0,0,0,nhấtquán.nekokuro02,Chủ nhen nhìn thấy ta chết trên đường,
+Dialogue: 10,0:20:08.04,0:20:11.40,Main,meo,0,0,0,nhấtquán.nekokuro02,thế là tiến lại chôn cét ta \Nnhư thói quen cơm bữa mừ thôi.
+Dialogue: 10,0:20:11.40,0:20:13.19,Main,meo,0,0,0,,Hoèn toèn vô cảm.
 Dialogue: 10,0:20:13.19,0:20:16.03,Main,meo,0,0,0,,Chứ nào có động lòng trắc ẩn gì.
-Dialogue: 10,0:20:16.03,0:20:19.74,Main,meo,0,0,0,,Tức là, chả có gì để ta lợi dụng hết.
+Dialogue: 10,0:20:16.03,0:20:19.74,Main,meo,0,0,0,,Tức là, chả có gì để ta lợi dụng hét.
 Dialogue: 10,0:20:19.74,0:20:21.99,Main,,0,0,0,,Không, nhưng mà—Hanekawa—
-Dialogue: 10,0:20:21.99,0:20:26.75,Main,meo,0,0,0,,Mong ước duy nhất của chủ nhân\N là được làm một cô gái bình thường.
+Dialogue: 10,0:20:21.99,0:20:26.75,Main,meo,0,0,0,,Mong ước duy nhất của chủ nhen\N là được lèm một cô gái bình thường.
 Dialogue: 10,0:20:27.37,0:20:30.71,Main,meo,0,0,0,,"Nếu phát hiện một con mèo\N chết bên đường, thì chôn cất nó"
-Dialogue: 10,0:20:30.71,0:20:32.79,Main,meo,0,0,0,,À thì, đây là việc đúng đắn nên làm.
+Dialogue: 10,0:20:30.71,0:20:32.79,Main,meo,0,0,0,,À thì, đây là việc đúng đắn nên lèm.
 Dialogue: 10,0:20:32.79,0:20:35.55,Main,meo,0,0,0,,Kiểu như định luật vậy,\N hay phương trình cũng được.
-Dialogue: 10,0:20:35.88,0:20:39.18,Main,meo,0,0,0,,Nên là chủ nhân cứ áp dụng\N định luật và phương trình thôi.
+Dialogue: 10,0:20:35.88,0:20:39.18,Main,meo,0,0,0,,Nên là chủ nhen cứ áp dụng\N định luật và phương trình thôi.
 Dialogue: 10,0:20:39.18,0:20:40.43,Main,meo,0,0,0,,Tất cả chỉ có thế.
 Dialogue: 10,0:20:40.84,0:20:45.89,Main,,0,0,0,,Thông thường, người ta không có tuân theo\N định luật hay phương trình.
 Dialogue: 10,0:20:45.89,0:20:48.77,Main,,0,0,0,,Dù họ đều biết \Nđó là điều đúng đắn nên làm,
@@ -384,30 +384,30 @@ Dialogue: 10,0:20:53.06,0:20:55.07,Main,,0,0,0,,Mà không, có thể họ sẽ 
 Dialogue: 10,0:20:55.07,0:20:56.69,Main,,0,0,0,,Nhưng họ sẽ không làm.
 Dialogue: 10,0:20:56.69,0:20:59.70,Main,,0,0,0,,Họ ngại cả về mặt thể xác lẫn tinh thần.
 Dialogue: 10,0:20:59.70,0:21:01.82,Main,,0,0,0,,Ấy vậy mà, Hanekawa... vẫn làm được.
-Dialogue: 10,0:21:02.53,0:21:04.53,Main,meo,0,0,0,,Phải, đúng là làm được.
-Dialogue: 10,0:21:04.53,0:21:06.04,Main,meo,0,0,0,,Với sự vô cảm.
-Dialogue: 10,0:21:06.04,0:21:07.54,Main,meo,0,0,0,,Khỏi cần đến tình cảm,
+Dialogue: 10,0:21:02.53,0:21:04.53,Main,meo,0,0,0,,Phải, đúng là lèm được.
+Dialogue: 10,0:21:04.53,0:21:06.04,Main,meo,0,0,0,,Với sự vô cẻm.
+Dialogue: 10,0:21:06.04,0:21:07.54,Main,meo,0,0,0,,Khỏi cần đến tình cẻm,
 Dialogue: 10,0:21:07.54,0:21:10.08,Main,meo,0,0,0,,ra tay tương trợ như một cái máy.
-Dialogue: 10,0:21:10.08,0:21:14.54,Main,meo,0,0,0,,Ta đã trải qua không ít tang ma,\N nhưng vẫn thấy chủ nhân thật khác thường.
+Dialogue: 10,0:21:10.08,0:21:14.54,Main,meo,0,0,0,,Ta đã trải qua không ít tang ma,\N nhưng vẫn thấy chủ nhen thật khác thường.
 Dialogue: 10,0:21:15.17,0:21:16.05,Main,meo,0,0,0,,Thế nên...
 Dialogue: 10,0:21:16.64,0:21:18.80,Main,meo,0,0,0,,ta mới muốn giúp đỡ.
 Dialogue: 10,0:21:22.64,0:21:24.93,Main,meo,0,0,0,,Ngắn gọn là tùy hứng.
 Dialogue: 10,0:21:24.93,0:21:25.97,Main,meo,0,0,0,,Giống mèo mà ha?
 Dialogue: 10,0:21:30.77,0:21:33.02,Main,meo,0,0,0,,Thôi, nhớ truyền lời của ta đấy.
 Dialogue: 10,0:21:33.02,0:21:36.65,Main,meo,0,0,0,,Bảo thằng cha mặc áo aloha đó đừng có xía vô,\N đây chỉ như mèo đang nghịch thôi.
-Dialogue: 10,0:21:36.65,0:21:39.44,Main,meo,0,0,0,,Không là ta kiện hắn\N vì tội ngược đãi động vật đấy.
+Dialogue: 10,0:21:36.65,0:21:39.44,Main,meo,0,0,0,,Không là ta kiện hắn\N vì tội ngược đãi động vẹt đấy.
 Dialogue: 10,0:21:39.44,0:21:42.03,Main,meo,0,0,0,,Ta đã bỏ qua cho rồi thì liệu mà biết điều.
 Dialogue: 10,0:21:42.03,0:21:43.16,Main,,0,0,0,,Ý mi là gì?
 Dialogue: 10,0:21:44.12,0:21:45.16,Main,meo,0,0,0,,Dễ hiểu mà ha?
-Dialogue: 10,0:21:45.91,0:21:48.16,Main,meo,0,0,0,,Nếu ta—hay đúng hơn là chủ nhân ta—
-Dialogue: 10,0:21:48.91,0:21:51.67,Main,meo,0,0,0,,thực sự muốn làm hại hắn—
+Dialogue: 10,0:21:45.91,0:21:48.16,Main,meo,0,0,0,,Nếu ta—hay đúng hơn là chủ nhen ta—
+Dialogue: 10,0:21:48.91,0:21:51.67,Main,meo,0,0,0,,thực sự muốn lèm hại hắn—
 Dialogue: 10,0:21:52.08,0:21:55.67,Main,meo,0,0,0,,thì hắn đã bị ta giết ngay lần đầu rồi.
-Dialogue: 10,0:21:55.67,0:21:58.67,Main,meo,0,0,0,,Vì là người quen của chủ nhân \Nnên ta mới nhẹ tay khi giao chiến.
+Dialogue: 10,0:21:55.67,0:21:58.67,Main,meo,0,0,0,,Vì là người quen của chủ nhen \Nnên ta mới nhẹ tay khi giao chiến.
 Dialogue: 10,0:21:59.01,0:22:00.22,Main,meo,0,0,0,,Còn mi...
 Dialogue: 10,0:22:00.22,0:22:03.18,Main,meo,0,0,0,,Mà thôi, hình như mi không định làm gì cả.
 Dialogue: 10,0:22:10.43,0:22:12.52,Main,meo,0,0,0,,Phải, nước đi chính xác đấy.
-Dialogue: 10,0:22:13.27,0:22:17.32,Main,meo,0,0,0,,Nếu mi biết nghĩ cho chủ nhân ta,\N thì nước đi chính xác nhất là không đi nước nào.
-Dialogue: 10,0:22:17.32,0:22:19.78,Main,meo,0,0,0,,Mi cũng không muốn chết đúng chứ?
+Dialogue: 10,0:22:13.27,0:22:17.32,Main,meo,0,0,0,,Nếu mi biết nghĩ cho chủ nhen ta,\N thì nước đi chính xác nhất là không đi nước nào.
+Dialogue: 10,0:22:17.32,0:22:19.78,Main,meo,0,0,0,,Mi cũng khem muốn chết đúng chứ?
 Dialogue: 10,0:22:22.74,0:22:23.70,Main,meo,0,0,0,,Céo từ.
 Dialogue: 10,0:22:23.70,0:22:28.41,Main,meo,0,0,0,,Mi tốt nhất nên... \Ncố mà sống sao cho hạnh phúc, con sen à.
 Dialogue: 10,0:22:29.66,0:22:30.62,Main,,0,0,0,,Khoan đã!
@@ -421,19 +421,19 @@ Dialogue: 10,0:22:46.82,0:22:50.18,Main,,0,0,0,,thì một khi về nhà, nó l�
 Dialogue: 10,0:22:50.18,0:22:55.04,Main,,0,0,0,,Dù cho mi có tấn công 500 người lạ,\N dành cả tháng trời ra để xả căng thẳng đi nữa,
 Dialogue: 10,0:22:55.04,0:22:56.65,Main,,0,0,0,,thì rốt cuộc đâu lại hoàn đấy thôi.
 Dialogue: 10,0:22:58.02,0:23:00.15,Main,meo,0,0,0,,À, đúng rồi.
-Dialogue: 10,0:23:00.40,0:23:06.16,Main,meo,0,0,0,,Nếu đã thế, ta cứ việc hành chúng\N đến độ không dám về nữa luôn.
-Dialogue: 10,0:23:06.53,0:23:09.33,Main,meo,0,0,0,,Sẽ không còn đơn thuần chỉ là \NBòn Rút Năng Lượng đâu.
+Dialogue: 10,0:23:00.40,0:23:06.16,Main,meo,0,0,0,,Nếu đã thế, ta cứ việc hành chúng\N đến độ khem dám về nữa luôn.
+Dialogue: 10,0:23:06.53,0:23:09.33,Main,meo,0,0,0,,Sẽ khem còn đơn thuần chỉ là \NBòn Rút Năng Lượng đâu.
 Dialogue: 10,0:23:09.33,0:23:13.50,Main,meo,0,0,0,,Đáp trả bạo lực gia đình \Nbằng bạo lực gia đình là được,
-Dialogue: 10,0:23:13.50,0:23:16.04,Main,meo,0,0,0,,nếu đó là điều chủ nhân muốn.
+Dialogue: 10,0:23:13.50,0:23:16.04,Main,meo,0,0,0,,nếu đó là điều chủ nhen muốn.
 Dialogue: 10,0:23:17.50,0:23:18.63,Main,,0,0,0,,Chuyện đó—
-Dialogue: 10,0:23:21.25,0:23:23.72,Main,meo,0,0,0,,Đúng rồi, nước đi chính xác đấy.
+Dialogue: 10,0:23:21.25,0:23:23.72,Main,meo,0,0,0,,Đúng rồi, nước đi chính xéc đấy.
 Dialogue: 10,0:23:23.72,0:23:25.80,Main,meo,0,0,0,,Chạm vào ta là dính {\i1}chướng{\i0} đấy.
 Dialogue: 10,0:23:25.80,0:23:27.39,Main,meo,0,0,0,,Ta là Chướng Miêu mà.
-Dialogue: 10,0:23:27.39,0:23:28.35,Main,meo,0,0,0,,Tránh xa ta ra.
+Dialogue: 10,0:23:27.39,0:23:28.35,Main,meo,0,0,0,,Trénh xa ta ra.
 Dialogue: 10,0:23:28.35,0:23:29.97,Main,meo,0,0,0,,Đừng chạm dù chỉ một ngón tay.
-Dialogue: 10,0:23:29.97,0:23:34.06,Main,meo,0,0,0,,Nước đi chính xác\N là đừng dính dáng gì đến ta,
+Dialogue: 10,0:23:29.97,0:23:34.06,Main,meo,0,0,0,,Nước đi chính xéc\N là đừng dính dáng gì đến ta,
 Dialogue: 10,0:23:34.06,0:23:34.85,Main,meo,0,0,0,,và có lẽ...
-Dialogue: 10,0:23:35.64,0:23:37.73,Main,meo,0,0,0,,là cả chủ nhân ta nữa, ha.
+Dialogue: 10,0:23:35.64,0:23:37.73,Main,meo,0,0,0,,là cả chủ nhen ta nữa, hen.
 Dialogue: 10,0:23:38.81,0:23:40.73,Main,,0,0,0,,Mèo—Mi—
 Dialogue: 10,0:23:40.73,0:23:41.65,Main,meo,0,0,0,,Céo từ.
 Dialogue: 10,0:23:41.65,0:23:43.23,Main,meo,0,0,0,,Sống cuộc đời hạnh phúc đi.

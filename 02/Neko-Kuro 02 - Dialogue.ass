@@ -18,9 +18,9 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 02 (BD 1080p HEVC Opus) [C4802D
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 247
-Active Line: 296
-Video Position: 31645
+Scroll Position: 320
+Active Line: 323
+Video Position: 33434
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,16 +365,16 @@ Dialogue: 10,0:21:26.05,0:21:28.55,Main,,0,0,0,,Mà là về mặt {\i1}kỹ thu
 Dialogue: 10,0:21:30.36,0:21:31.89,Main,,0,0,0,,Nếu buộc phải nói,
 Dialogue: 10,0:21:31.89,0:21:34.31,Main,,0,0,0,,việc mà cậu có thể làm được là \Nđừng vướng chân ta,
 Dialogue: 10,0:21:34.31,0:21:36.56,Main,,0,0,0,,đó mới là việc cậu nên làm.
-Dialogue: 10,0:23:14.45,0:23:16.49,Main,,0,0,150,,Phần xem trước ảo giác hen.
-Dialogue: 10,0:23:16.49,0:23:19.20,Main,,0,0,150,,Có một phản ứng ở sinh vật sống\N gọi là {\c&H21FFFD&}giả chết{\c}.
-Dialogue: 10,0:23:19.20,0:23:22.25,Main,,0,0,150,,Không phải {\c&H5A52FF&}chết giả {\c}mà là {\c&H21FFFD&}giả chết {\c}hen.
-Dialogue: 10,0:23:19.20,0:23:22.25,GT 2,,0,0,0,,(chơi chữ với Nise ~ Giả, trong cái tên Nise-monogatari)
-Dialogue: 10,0:23:22.25,0:23:24.35,Main,,0,0,150,,Như trò giả vờ chết ấy.
-Dialogue: 10,0:23:24.35,0:23:27.28,Main,,0,0,150,,Côn trùng làm thế khi nó sắp bị ăn.
-Dialogue: 10,0:23:27.28,0:23:31.72,Main,,0,0,150,,Nó kiểu như, \Nkhi con người {\c&H21FFFD&}giả chết {\c}lúc gặp gấu hen.
-Dialogue: 10,0:23:31.72,0:23:33.07,Main,,0,0,150,,Không, điên à mà được.
-Dialogue: 10,0:23:33.97,0:23:36.66,Main,,0,0,150,,Kỳ tới, Gia đình Tsubasa, phần 3!
-Dialogue: 10,0:23:37.02,0:23:39.63,Main,,0,0,150,,Việc gặp Quái Dị tức là\N lời dạo đầu cho cái chết hen.
+Dialogue: 10,0:23:14.45,0:23:16.49,Main,,0,0,150,,{\i1}Phần xem trước ảo giác hen.
+Dialogue: 10,0:23:16.49,0:23:19.20,Main,,0,0,150,,{\i1}Có một phản ứng ở sinh vật sống\N gọi là {\c&H21FFFD&}giả chết{\c}.
+Dialogue: 10,0:23:19.20,0:23:22.25,Main,,0,0,150,,{\i1}Không phải {\c&H5A52FF&}chết giả {\c}mà là {\c&H21FFFD&}giả chết {\c}hen.
+Dialogue: 10,0:23:19.20,0:23:22.25,GT 2,,0,0,0,,{\i1}(chơi chữ với Nise ~ Giả, trong cái tên Nise-monogatari)
+Dialogue: 10,0:23:22.25,0:23:24.35,Main,,0,0,150,,{\i1}Như trò giả vờ chết ấy.
+Dialogue: 10,0:23:24.35,0:23:27.28,Main,,0,0,150,,{\i1}Côn trùng làm thế khi nó sắp bị ăn.
+Dialogue: 10,0:23:27.28,0:23:31.72,Main,,0,0,150,,{\i1}Nó kiểu như, \Nkhi con người {\c&H21FFFD&}giả chết {\c}lúc gặp gấu hen.
+Dialogue: 10,0:23:31.72,0:23:33.07,Main,,0,0,150,,{\i1}Không, điên à mà được.
+Dialogue: 10,0:23:33.97,0:23:36.66,Main,,0,0,150,,{\i1}Kỳ tới, Gia đình Tsubasa, phần 3!
+Dialogue: 10,0:23:37.02,0:23:39.63,Main,,0,0,150,,{\i1}Việc gặp Quái Dị tức là\N lời dạo đầu cho cái chết hen.
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"1c2a9298-06d1-4daa-bcd2-45d6cfa05752"#2C"originalText"#3A"{\\blur0.9\\pos(963#2C817.5)\\fscx80\\fscy80}Scene no. 1"}
