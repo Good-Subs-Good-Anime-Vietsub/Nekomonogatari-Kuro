@@ -16,8 +16,8 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 03 (BD 1080p HEVC Opus) [1F24D2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 772
-Active Line: 781
+Scroll Position: 768
+Active Line: 769
 Video Position: 38485
 
 [V4+ Styles]
@@ -811,7 +811,7 @@ Dialogue: 0,0:21:50.62,0:21:50.66,Black and Red,,0,0,0,,{=70}{\blur3.36\fsp12\po
 Dialogue: 0,0:21:50.66,0:21:50.71,Black and Red,,0,0,0,,{=70}{\blur3.36\fsp12\pos(971.64,359.81)\alpha&H80&\fscx184\fscy156}muốn làm—
 Dialogue: 0,0:21:50.71,0:21:50.75,Black and Red,,0,0,0,,{=70}{\blur3.36\fsp12\pos(971.52,359.85)\alpha&H80&\fscx184\fscy156}muốn làm—
 Dialogue: 0,0:21:50.75,0:21:50.79,Black and Red,,0,0,0,,{=70}{\blur3.36\fsp12\pos(971.39,359.79)\alpha&H80&\fscx184\fscy156}muốn làm—
-Dialogue: 0,0:26:19.68,0:26:24.19,Black and Red,,0,0,0,,{\an4\c&H6B8A71&\b1\blur0.8\fscy116\fscx116\pos(202.5,265.5)}Đạ tạ vì đã \N làm cho vol.1 thành công lớ!
+Dialogue: 0,0:26:19.68,0:26:24.19,Black and Red,,0,0,0,,{\an4\c&H6B8A71&\b1\blur0.8\fscy116\fscx116\pos(202.5,265.5)}Đạ tạ vì đã \N làm cho vol.1 đại thành công!
 Dialogue: 0,0:26:19.68,0:26:24.19,Black and Red,,0,0,0,,{\c&H6B8A71&\b1\blur0.8\fscy116\fscx116\pos(1627.5,234)}Chúng tớ!
 Dialogue: 0,0:26:19.68,0:26:24.19,Black and Red,,0,0,0,,{\c&H6B8A71&\b1\blur0.8\fscy116\fscx116\pos(1501.5,307.5)}Hỏa Tỷ Muội!
 Dialogue: 0,0:26:24.19,0:26:28.69,Black and Red,,0,0,0,,{\blur0.9\c&H3944ED&\fscx122\fscy122\b1\pos(1014.5,298)}Mãi cũng \Ngiải quyết xong

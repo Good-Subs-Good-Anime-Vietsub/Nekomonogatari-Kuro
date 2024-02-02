@@ -17,7 +17,8 @@ Video File: ../raws/[OZR] Nekomonogatari Black - 03 (BD 1080p HEVC Opus) [1F24D2
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Active Line: 6
+Scroll Position: 370
+Active Line: 417
 Video Position: 36105
 
 [V4+ Styles]
@@ -49,7 +50,7 @@ Comment: 10,0:24:48.09,0:24:48.09,Main,chptr,0,0,0,,{ED}
 Comment: 10,0:26:18.18,0:26:18.22,Main,chptr,0,0,0,,{Preview}
 Comment: 10,0:00:53.45,0:00:53.49,Main,,0,0,0,opsync,
 Comment: 10,0:25:05.86,0:25:05.90,Main,,0,0,0,edsync,
-Dialogue: 10,0:01:52.84,0:01:55.85,Main,,0,0,0,,{\i1}Đây... không phải phòng của Hanekawa sao?
+Dialogue: 10,0:01:52.84,0:01:55.85,Main,,0,0,0,,{\i1}Đây... chả phải phòng của Hanekawa sao?
 Dialogue: 10,0:02:54.70,0:02:56.24,Main,,0,0,0,,Ồ, Onī-chan, mừng anh về—
 Dialogue: 10,0:03:01.45,0:03:03.66,Main,,0,0,0,,{\i1}Có tất cả 6 phòng.
 Dialogue: 10,0:03:03.66,0:03:04.16,Main,,0,0,0,,{\i1}Thế nhưng...
@@ -78,12 +79,12 @@ Dialogue: 10,0:04:02.31,0:04:03.47,Main,,0,0,0,,Yêu ma?
 Dialogue: 10,0:04:04.43,0:04:06.64,Main,,0,0,0,,Thì yêu ma mà, hay đúng hơn là yêu mèo.
 Dialogue: 10,0:04:07.02,0:04:08.39,Main,,0,0,0,,Yêu mèo?
 Dialogue: 10,0:04:09.15,0:04:12.65,Main,,0,0,0,,Dù mới chỉ là tin đồn nên chưa có gì chắc chắn,
-Dialogue: 10,0:04:12.65,0:04:17.28,Main,,0,0,0,,nhưng họ kêu là có một con yêu mèo hình người\N đang tấn công người dân khắp thành phố.
+Dialogue: 10,0:04:12.65,0:04:17.28,Main,,0,0,0,,nhưng họ kêu là có một con yêu tinh mèo\N đang tấn công người dân khắp thành phố.
 Dialogue: 10,0:04:19.53,0:04:21.66,Main,,0,0,0,,Thế... họ đồn từ bao giờ?
-Dialogue: 10,0:04:21.66,0:04:25.62,Main,,0,0,0,,Em nghe người ta đồn từ lúc trời chưa tối cơ.
+Dialogue: 10,0:04:21.66,0:04:25.62,Main,,0,0,0,,Em nghe người ta đồn từ lúc chưa tối cơ.
 Dialogue: 10,0:04:25.62,0:04:29.92,Main,,0,0,0,,Thế nên em mới lo cho Onī-chan,\N rồi gọi lấy gọi để.
-Dialogue: 10,0:04:30.63,0:04:34.17,Main,,0,0,0,,Tuy Onī-chan bình an vô sự \Nvề nhà mừng rồi...
-Dialogue: 10,0:04:34.17,0:04:36.81,Main,,0,0,0,,thế nhưng với cái tình trạng này, \Nvới ý thức về chính nghĩa,
+Dialogue: 10,0:04:30.63,0:04:34.17,Main,,0,0,0,,Tuy Onī-chan bình an vô sự \Nvề nhà là mừng rồi...
+Dialogue: 10,0:04:34.17,0:04:36.81,Main,,0,0,0,,thế nhưng với tình trạng này, \Nvới ý thức về chính nghĩa,
 Dialogue: 10,0:04:36.81,0:04:39.76,Main,,0,0,0,,với tư cách thành viên của Fire Sisters \Nthì không thể làm ngơ được.
 Dialogue: 10,0:04:39.76,0:04:43.05,Main,,0,0,0,,Karen-chan hiện đang \Nchuẩn bị đi săn yêu mèo đó.
 Dialogue: 10,0:04:43.47,0:04:44.06,Main,,0,0,0,,Ấy...
@@ -91,7 +92,7 @@ Dialogue: 10,0:04:45.03,0:04:46.43,Main,,0,0,0,,Onī-chan, sao thế?
 Dialogue: 10,0:04:46.43,0:04:47.93,Main,,0,0,0,,"Ấy" ý là gì?
 Dialogue: 10,0:04:47.93,0:04:49.44,Main,,0,0,0,,Ấy... à thì...
 Dialogue: 10,0:04:49.89,0:04:51.69,Main,,0,0,0,,anh là anh đang có chút vấn đề.
-Dialogue: 10,0:04:51.98,0:04:55.82,Main,,0,0,0,,Chỉ riêng việc một mình đạp xe về nhà \Ngiữa đêm hôm thế này đã đủ đáng sợ rồi,
+Dialogue: 10,0:04:51.98,0:04:55.82,Main,,0,0,0,,Chỉ riêng việc một mình đạp xe về nhà \Ngiữa đêm hôm thế này đã đủ sợ rồi,
 Dialogue: 10,0:04:55.82,0:04:59.90,Main,,0,0,0,,mà giờ lại nghe kể về yêu mèo này nọ nữa\N thì phải nói là sợ càng thêm sợ.
 Dialogue: 10,0:04:59.90,0:05:01.91,Main,,0,0,0,,Anh {\i1}thỏ đế{\i0} lắm \Nkhông dám ngủ một mình đâu.
 Dialogue: 10,0:05:01.91,0:05:06.08,Main,,0,0,0,,Nên đang tính hỏi xem Tsukihi-chan và Karen-chan\N liệu có thể ngủ cùng anh vài hôm được không.
@@ -102,11 +103,11 @@ Dialogue: 10,0:05:13.42,0:05:14.00,Main,,0,0,0,,Gì cơ?
 Dialogue: 10,0:05:14.38,0:05:16.17,Main,,0,0,0,,Không còn biết dựa vào ai sao?
 Dialogue: 10,0:05:16.17,0:05:17.59,Main,,0,0,0,,Đã thế thì đành chịu thôi.
 Dialogue: 10,0:05:18.01,0:05:20.05,Main,,0,0,0,,Trông anh sợ sệt thế này kể cũng tội,
-Dialogue: 10,0:05:20.05,0:05:22.51,Main,,0,0,0,,nên thôi để em thuyết phục Karen-chan cho.
+Dialogue: 10,0:05:20.05,0:05:22.51,Main,,0,0,0,,thôi để em thuyết phục Karen-chan cho.
 Dialogue: 10,0:05:22.51,0:05:25.01,Main,,0,0,0,,Vụ yêu mèo để cảnh sát lo đi.
 Dialogue: 10,0:05:26.14,0:05:27.31,Main,,0,0,0,,Cảm ơn nha.
 Dialogue: 10,0:05:30.30,0:05:32.77,Main,,0,0,0,,{\i1}Chướng Miêu cứ bạ đâu rút đấy\N với cái Bòn Rút Năng Lượng,
-Dialogue: 10,0:05:32.77,0:05:35.15,Main,,0,0,0,,{\i1}mình không tài nào hiểu được \Nmục đích của nó là gì.
+Dialogue: 10,0:05:32.77,0:05:35.15,Main,,0,0,0,,{\i1}mình không tài nào hiểu nổi \Nmục đích của nó là gì.
 Dialogue: 10,0:05:35.15,0:05:38.40,Main,,0,0,0,,{\i1}Tuy nhiên, liệu mình có quyền được biết không?
 Dialogue: 10,0:05:38.40,0:05:41.90,Main,,0,0,0,,{\i1}Mà khoan, liệu mình có thực sự muốn biết không?
 Dialogue: 10,0:05:42.61,0:05:46.49,Main,,0,0,0,,{\i1}Mình đột nhập vào nhà Hanekawa,\N khám phá ra câu chuyện trong đó,
@@ -135,7 +136,7 @@ Dialogue: 10,0:06:58.94,0:07:04.15,Main,,0,0,0,,{\i1}Đến ngày mùng 2 khi ta
 Dialogue: 10,0:07:04.15,0:07:06.82,Main,,0,0,0,,{\i1}trong đó không ít người \Nđã tận mắt chứng kiến.
 Dialogue: 10,0:07:06.82,0:07:09.16,Main,,0,0,0,,{\i1}Tức là Chướng Miêu\N đã hoạt động rất năng suất.
 Dialogue: 10,0:07:10.16,0:07:13.54,Main,,0,0,0,,{\i1}Ngày mai, ngày 5 tháng 3 \Nlà bước vào kỳ nghỉ, nhưng trước đó,
-Dialogue: 10,0:07:13.54,0:07:17.00,Main,,0,0,0,,{\i1}tôi quyết đinh đến chỗ tòa nhà bỏ hoang \Nnơi Oshino ở một lần nữa.
+Dialogue: 10,0:07:13.54,0:07:17.00,Main,,0,0,0,,{\i1}tôi quyết định đến chỗ tòa nhà bỏ hoang \Nnơi Oshino ở một lần nữa.
 Dialogue: 10,0:07:18.21,0:07:19.71,Main,,0,0,0,,O-Oshino!
 Dialogue: 10,0:07:20.21,0:07:21.84,Main,,0,0,0,,Ây dà, Araragi{*}-kun{*}.
 Dialogue: 10,0:07:21.84,0:07:23.59,Main,,0,0,0,,Ta đợi cậu mãi.
@@ -187,7 +188,7 @@ Dialogue: 10,0:09:29.80,0:09:32.51,Main,,0,0,0,,Để mà nói thì, \Nnó cũng
 Dialogue: 10,0:09:35.55,0:09:39.34,Main,,0,0,0,,Tuy nhiên, người bị ám lại là bé lớp trưởng,
 Dialogue: 10,0:09:39.34,0:09:42.23,Main,,0,0,0,,nên vụ này nó mới bất thường như thế.
 Dialogue: 10,0:09:42.23,0:09:46.32,Main,,0,0,0,,Chướng Miêu vốn chỉ là hạng tép riu,\N mà giờ đã trở nên vô vùng mạnh.
-Dialogue: 10,0:09:46.32,0:09:50.57,Main,,0,0,0,,Không cẩn thận, nó thậm chí có thể \Nsáng ngang được với Mà cà rồng.
+Dialogue: 10,0:09:46.32,0:09:50.57,Main,,0,0,0,,Không cẩn thận, nó thậm chí có thể \Nsánh ngang được với Mà cà rồng.
 Dialogue: 10,0:09:51.53,0:09:55.70,Main,,0,0,0,,Chia sẻ cơ thể thì đã đành,\N đây lại còn cả những thứ trong đầu nữa thì hỏng rồi.
 Dialogue: 10,0:09:56.37,0:09:58.91,Main,,0,0,0,,Các cách truyền thống \Nmà ta dùng để đối phó với Quái Dị,
 Dialogue: 10,0:09:58.91,0:10:01.07,Main,,0,0,0,,từ thủ thuật, đến phương pháp,
@@ -228,7 +229,7 @@ Dialogue: 10,0:11:34.59,0:11:38.13,Main,vàng,0,0,0,,{\c&H00F6FF&}nếu không H
 Dialogue: 10,0:11:38.13,0:11:41.39,Main,vàng,0,0,0,,{\c&H00F6FF&}sẽ bốc hơi khỏi thế giới này.
 Dialogue: 10,0:11:44.93,0:11:47.44,Main,,0,0,0,,{\i1}Truyện kể rằng, \N có một con mèo trắng nằm chết trên đường,
 Dialogue: 10,0:11:47.44,0:11:53.32,Main,,0,0,0,,{\i1}một người đàn ông đi qua cảm thấy tội nghiệp,\N nên đã chôn cất con mèo đó.
-Dialogue: 10,0:11:54.07,0:11:57.95,Main,,0,0,0,,{\i1}Tù đêm đó, người đàn ông tốt bụng ấy \Nbắt đầu có những hành vi kỳ quái.
+Dialogue: 10,0:11:54.07,0:11:57.95,Main,,0,0,0,,{\i1}Từ đêm đó, người đàn ông tốt bụng ấy \Nbắt đầu có những hành vi kỳ quái.
 Dialogue: 10,0:11:57.95,0:12:00.82,Main,,0,0,0,,{\i1}Mọi người xung quanh không còn chịu nổi nữa,
 Dialogue: 10,0:12:00.82,0:12:04.41,Main,,0,0,0,,{\i1}họ đã cho mời pháp sư để trừ tà \Ncho ông ấy khỏi bị con ma mèo nhập.
 Dialogue: 10,0:12:05.29,0:12:06.62,Main,,0,0,0,,{\i1\c&H5AE2FF&}Mấu chốt{\c} nằm ở đây.
@@ -259,7 +260,7 @@ Dialogue: 10,0:13:21.58,0:13:25.21,Main,,0,0,0,,có thể kết luận rằng b�
 Dialogue: 10,0:13:25.21,0:13:26.79,Main,,0,0,0,,giống như "điểm mấu chốt" ban nãy.
 Dialogue: 10,0:13:27.54,0:13:30.66,Main,,0,0,0,,Trước khi bé lớp trưởng và con mèo \Nhoàn toàn hòa vào làm một,
 Dialogue: 10,0:13:31.06,0:13:32.42,Main,,0,0,0,,phải hành động thôi.
-Dialogue: 10,0:14:15.38,0:14:20.51,Main,,0,0,0,,{\i1}Thường thì cặp ngực khủng của Hanekawa-san,\N vẫn luôn đè nén lên cái mặt bàn này ha.
+Dialogue: 10,0:14:15.38,0:14:20.51,Main,,0,0,0,,{\i1}Thường thì cặp ngực khủng của Hanekawa-san,\N vẫn luôn đè lên cái mặt bàn này ha.
 Dialogue: 10,0:14:27.14,0:14:30.18,Main,meo,0,0,0,,Mi đúng là đồ biến thái\N không có điểm dừng mà.
 Dialogue: 10,0:14:30.18,0:14:32.98,Main,meo,0,0,0,,Phát khiếp! Khiếp hơn cả Quái Dị.
 Dialogue: 10,0:14:32.98,0:14:36.65,Main,meo,0,0,0,,Mi vừa liếm bàn học của nữ sinh\N và hứng lên.
@@ -275,13 +276,13 @@ Dialogue: 10,0:15:03.55,0:15:08.43,Main,,0,0,0,,Thì ta cũng có làm được 
 Dialogue: 10,0:15:08.43,0:15:11.77,Main,,0,0,0,,Hơn nữa, mi cũng sẽ không giết ta... đúng chứ?
 Dialogue: 10,0:15:11.77,0:15:14.02,Main,meo,0,0,0,,Chịu... biết đâu được.
 Dialogue: 10,0:15:15.27,0:15:19.48,Main,meo,0,0,0,,Bòn Rút Năng Lượng của ta không phải kỹ năng\N mà là đặc tính rồi.
-Dialogue: 10,0:15:19.48,0:15:21.90,Main,meo,0,0,0,,Ta đâu có kiểm soát được đâu.
+Dialogue: 10,0:15:19.48,0:15:21.90,Main,meo,0,0,0,,Ta đâu có kiểm soát được.
 Dialogue: 10,0:15:21.90,0:15:24.44,Main,meo,0,0,0,,Muốn nhẹ nhàng nhưng đâu có được.
 Dialogue: 10,0:15:24.44,0:15:29.16,Main,meo,0,0,0,,Không muốn giết nhưng lại lỡ tay giết.
 Dialogue: 10,0:15:29.58,0:15:34.45,Main,,0,0,0,,Dù là vậy, vẫn còn tốt hơn \Nviệc hễ gặp ai là mi lao vào cào cấu cắn xé.
 Dialogue: 10,0:15:34.45,0:15:37.04,Main,,0,0,0,,Không một ai có thể \Nchịu đựng được việc đó.
 Dialogue: 10,0:15:37.88,0:15:39.13,Main,meo,0,0,0,,Ý là Ma cà rồng ấy à?
-Dialogue: 10,0:15:39.13,0:15:43.84,Main,meo,0,0,0,,À thì, ta nào có cửa đọ lại với \NQuái Dị cấp cao như vậy được.
+Dialogue: 10,0:15:39.13,0:15:43.84,Main,meo,0,0,0,,À thì, ta nào có cửa đọ lại với \NQuái Dị cấp cao như thế.
 Dialogue: 10,0:15:43.84,0:15:46.84,Main,meo,0,0,0,,Nhưng nhờ có {\c&H5AE2FF&}chiến thuật{\c} và {\c&H5AE2FF&}tầm nhìn{\c}\N của chủ nhân,
 Dialogue: 10,0:15:46.84,0:15:51.60,Main,meo,0,0,0,,mà ta có thể trở thành kẻ \Nthách thức được cả chuyên gia chuyên nghiệp.
 Dialogue: 10,0:15:51.60,0:15:53.27,Main,meo,0,0,0,,Đa tạ.
@@ -347,7 +348,7 @@ Dialogue: 10,0:18:52.15,0:18:57.12,Main,meo,0,0,0,,Nên là kêu thằng cha m�
 Dialogue: 10,0:18:57.12,0:19:01.29,Main,meo,0,0,0,,Ta không hiểu cho lắm, nhưng thằng cha đó\N muốn giúp chủ nhân ta đúng không?
 Dialogue: 10,0:19:01.58,0:19:04.16,Main,meo,0,0,0,,Vậy mới nói... cứ để ta lo là được rồi.
 Dialogue: 10,0:19:07.92,0:19:10.63,Main,,0,0,0,,Tại sao mi lại làm tới nước này?
-Dialogue: 10,0:19:10.63,0:19:14.17,Main,,0,0,0,,Mi suy cho cùng chỉ là một yêu ma\N đang chiếm lấy Hanekawa mà đúng chứ?
+Dialogue: 10,0:19:10.63,0:19:14.17,Main,,0,0,0,,Mi suy cho cùng chỉ là một yêu ma\N đang chiếm lấy Hanekawa thôi mà?
 Dialogue: 10,0:19:14.59,0:19:18.30,Main,,0,0,0,,Mi đâu đó lý do chính đáng nào \Nđể giúp đỡ Hanekawa.
 Dialogue: 10,0:19:18.30,0:19:20.66,Main,meo,0,0,0,,Nãy ta chả nói mãi rồi còn gì.
 Dialogue: 10,0:19:20.66,0:19:23.06,Main,meo,0,0,0,,Đây là để trả ơn dù cho có phi lý.
@@ -407,7 +408,7 @@ Dialogue: 10,0:22:00.22,0:22:03.18,Main,meo,0,0,0,,Mà thôi, hình như mi khô
 Dialogue: 10,0:22:10.43,0:22:12.52,Main,meo,0,0,0,,Phải, nước đi chính xác đấy.
 Dialogue: 10,0:22:13.27,0:22:17.32,Main,meo,0,0,0,,Nếu mi biết nghĩ cho chủ nhân ta,\N thì nước đi chính xác nhất là không đi nước nào.
 Dialogue: 10,0:22:17.32,0:22:19.78,Main,meo,0,0,0,,Mi cũng không muốn chết đúng chứ?
-Dialogue: 10,0:22:22.74,0:22:23.70,Main,meo,0,0,0,,Cáo từ.
+Dialogue: 10,0:22:22.74,0:22:23.70,Main,meo,0,0,0,,Céo từ.
 Dialogue: 10,0:22:23.70,0:22:28.41,Main,meo,0,0,0,,Mi tốt nhất nên... \Ncố mà sống sao cho hạnh phúc, con sen à.
 Dialogue: 10,0:22:29.66,0:22:30.62,Main,,0,0,0,,Khoan đã!
 Dialogue: 10,0:22:32.62,0:22:36.46,Main,,0,0,0,,Nếu mục đích của mi là\N giải tỏa căng thẳng cho Hanekawa,
@@ -430,12 +431,12 @@ Dialogue: 10,0:23:23.72,0:23:25.80,Main,meo,0,0,0,,Chạm vào ta là dính {\i1
 Dialogue: 10,0:23:25.80,0:23:27.39,Main,meo,0,0,0,,Ta là Chướng Miêu mà.
 Dialogue: 10,0:23:27.39,0:23:28.35,Main,meo,0,0,0,,Tránh xa ta ra.
 Dialogue: 10,0:23:28.35,0:23:29.97,Main,meo,0,0,0,,Đừng chạm dù chỉ một ngón tay.
-Dialogue: 10,0:23:29.97,0:23:34.06,Main,,0,0,0,,Nước đi chính xác\N là đừng dính dáng gì đến ta,
-Dialogue: 10,0:23:34.06,0:23:34.85,Main,,0,0,0,,và có lẽ...
-Dialogue: 10,0:23:35.64,0:23:37.73,Main,,0,0,0,,là cả chủ nhân ta nữa, ha.
+Dialogue: 10,0:23:29.97,0:23:34.06,Main,meo,0,0,0,,Nước đi chính xác\N là đừng dính dáng gì đến ta,
+Dialogue: 10,0:23:34.06,0:23:34.85,Main,meo,0,0,0,,và có lẽ...
+Dialogue: 10,0:23:35.64,0:23:37.73,Main,meo,0,0,0,,là cả chủ nhân ta nữa, ha.
 Dialogue: 10,0:23:38.81,0:23:40.73,Main,,0,0,0,,Mèo—Mi—
-Dialogue: 10,0:23:40.73,0:23:41.65,Main,,0,0,0,,Cáo từ.
-Dialogue: 10,0:23:41.65,0:23:43.23,Main,,0,0,0,,Sống cuộc đời hạnh phúc đi.
+Dialogue: 10,0:23:40.73,0:23:41.65,Main,meo,0,0,0,,Céo từ.
+Dialogue: 10,0:23:41.65,0:23:43.23,Main,meo,0,0,0,,Sống cuộc đời hạnh phúc đi.
 Dialogue: 10,0:24:06.51,0:24:07.97,Main,,0,0,0,,Không ổn rồi.
 Dialogue: 10,0:24:07.97,0:24:09.47,Main,,0,0,0,,Rốt cuộc thì mình...
 Dialogue: 10,0:24:09.47,0:24:11.51,Main,,0,0,0,,thực sự thích Hanekawa.
@@ -451,46 +452,12 @@ Dialogue: 10,0:24:32.66,0:24:34.87,Main,,0,0,0,,{\i1}Mà còn hơn cả tình y�
 Dialogue: 10,0:24:37.21,0:24:39.46,Main,,0,0,0,,Mình không còn muốn ở bên cậu ấy nữa.
 Dialogue: 10,0:24:41.33,0:24:42.83,Main,,0,0,0,,Bởi vì mình...
 Dialogue: 10,0:24:42.83,0:24:45.63,Main,,0,0,0,,muốn được chết vì Hanekawa.
-Dialogue: 10,0:26:19.68,0:26:21.43,Main,preview,0,0,150,,Phần xem trước ảo giác hen.
-Dialogue: 10,0:26:21.43,0:26:24.19,Main,preview,0,0,150,,Dù đây không phải loài bất tử,
-Dialogue: 10,0:26:24.19,0:26:28.69,Main,preview,0,0,150,,nhưng Planarian có thể tái sinh vô kể lần\N dù cho bị cắt thành từng mảnh.
-Dialogue: 10,0:26:28.69,0:26:32.53,Main,preview,0,0,150,,Ma cà rồng mà cũng tái sinh được như vậy\N thì đỉnh phải biết.
-Dialogue: 10,0:26:32.53,0:26:36.41,Main,preview,0,0,150,,Nếu tay bị đứt lìa sẽ mọc ra cánh tay khác,\N còn từ cánh tay bị đứt kia lại mọc ra cơ thể khác.
-Dialogue: 10,0:26:36.41,0:26:37.70,Main,preview,0,0,150,,Thế là nhân đôi luôn.
-Dialogue: 10,0:26:37.70,0:26:41.50,Main,preview,0,0,150,,Loáng cái là cả thế giới tràn ngập lão nương\N cũng như thân tín của lão nương.
-Dialogue: 10,0:26:42.08,0:26:45.00,Main,preview,0,0,150,,Kỳ tới, Gia đình Tsubasa, phần 4.
-Dialogue: 10,0:26:45.00,0:26:47.46,Main,preview,0,0,150,,Không biết riêng lần này\N sẽ có thêm bao nhiêu người nhỉ?
-
-[Aegisub Extradata]
-Data: 20,a-mo,e{"uuid"#3A"50c6dec6-3e05-48ca-87d8-b985a4755cd1"#2C"originalText"#3A"{\\blur3.36\\pos(966#2C360)\\fscx262\\fscy250\\alpha&H80&}Meal"}
-Data: 21,a-mo,e{"uuid"#3A"61a8164c-5319-45ac-90ed-202b710f4ff0"#2C"originalText"#3A"{\\blur0.96\\pos(966#2C360)\\fscx262\\fscy250}Meal"}
-Data: 23,a-mo,e{"uuid"#3A"ec624dad-f14c-48aa-946e-77392dd5decd"#2C"originalText"#3A"{\\blur3.36\\pos(966#2C360)\\c&H0&\\fscx262\\fscy250\\alpha&H80&}{1619}Curse"}
-Data: 24,a-mo,e{"uuid"#3A"3c56a9bc-c624-4fca-a136-6d11648cee91"#2C"originalText"#3A"{\\blur0.96\\pos(966#2C360)\\c&H0&\\fscx262\\fscy250}{1619}Curse"}
-Data: 32,a-mo,e{"uuid"#3A"f2846b41-7edc-4ef1-ac60-c9c8cf42f5dc"#2C"originalText"#3A"{\\blur3.36\\pos(966#2C360)\\fscx140\\fscy130\\alpha&H80&}The cat's grave"}
-Data: 33,a-mo,e{"uuid"#3A"4453cbdb-4a90-4460-a920-faccfcfa8e77"#2C"originalText"#3A"{\\blur0.96\\pos(966#2C360)\\fscx140\\fscy130}The cat's grave"}
-Data: 38,a-mo,e{"uuid"#3A"786efa30-0c1a-486d-9172-882adce35dcd"#2C"originalText"#3A"{\\blur3.36\\fsp3\\pos(966#2C300)\\fscx218\\fscy215\\alpha&H80&}Hanekawa Tsubasa"}
-Data: 39,a-mo,e{"uuid"#3A"91b5dcd3-97b8-4825-980c-ccd29bb8ac2d"#2C"originalText"#3A"{\\blur0.96\\fsp3\\pos(966#2C300)\\fscx218\\fscy215}Hanekawa Tsubasa"}
-Data: 40,a-mo,e{"uuid"#3A"07bb8fe1-5775-4857-856a-3f065dfa64bb"#2C"originalText"#3A"{\\blur3.36\\c&H0&\\fscx155\\fscy147\\pos(966#2C420)\\alpha&H80&\\b1}{2059}Hanekawa can"}
-Data: 41,a-mo,e{"uuid"#3A"792c99b9-0d27-4152-ae70-1d1ce378aaa3"#2C"originalText"#3A"{\\blur0.96\\c&H0&\\fscx155\\fscy147\\pos(966#2C420)\\b1}{2059}Hanekawa can"}
-Data: 43,a-mo,e{"uuid"#3A"6a19bd4b-3239-431a-9035-175b5e434a8e"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C420)\\b1\\alpha&H80&}never ever become"}
-Data: 44,a-mo,e{"uuid"#3A"8724e081-4183-495e-aacd-544a26e2b151"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C420)\\b1}never ever become"}
-Data: 46,a-mo,e{"uuid"#3A"dfbdbbb9-375b-4b48-908a-9479204902ca"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C420)\\b1\\alpha&H80&}a normal girl"}
-Data: 47,a-mo,e{"uuid"#3A"430190a4-14ce-4f28-8627-a5dc24180210"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C420)\\b1}a normal girl"}
-Data: 49,a-mo,e{"uuid"#3A"3a9ceb86-1cf9-4caf-b70e-b99c67beb399"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C420)\\b1\\alpha&H80&}Almost too black"}
-Data: 50,a-mo,e{"uuid"#3A"f2af60d0-d94b-441f-803a-b7c1c9157c09"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C420)\\b1}Almost too black"}
-Data: 52,a-mo,e{"uuid"#3A"f1ff3031-72b2-4418-9cc1-a7e0a8980f6c"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C420)\\b1\\alpha&H80&}A Stygian blackness"}
-Data: 53,a-mo,e{"uuid"#3A"41af5841-68f3-41da-8015-66eb27d6bb9c"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C420)\\b1}A Stygian blackness"}
-Data: 55,a-mo,e{"uuid"#3A"9d50aa40-d62b-4ee1-af12-e82ed926ac3a"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C420)\\b1\\alpha&H80&}Classroom"}
-Data: 56,a-mo,e{"uuid"#3A"fb688dbb-1973-4483-9456-91c36726f4d5"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C420)\\b1}Classroom"}
-Data: 58,a-mo,e{"uuid"#3A"ae1cc87b-c2d8-4f54-9106-241642743ceb"#2C"originalText"#3A"{\\blur3.36\\fscx155\\fscy147\\pos(966#2C360)\\b1\\alpha&H80&}You already know#2C don't you?"}
-Data: 59,a-mo,e{"uuid"#3A"b8624ccb-3fb3-4537-8b3d-b3f25d3f42e1"#2C"originalText"#3A"{\\blur0.96\\fscx155\\fscy147\\pos(966#2C360)\\b1}You already know#2C don't you?"}
-Data: 61,a-mo,e{"uuid"#3A"2dbdac01-d5e0-4a22-a802-9e9c3cbfe785"#2C"originalText"#3A"{\\blur3.36\\fsp7.5\\pos(966#2C360)\\fscx140\\fscy130\\c&H0&\\alpha&H80&}If I"}
-Data: 62,a-mo,e{"uuid"#3A"2bc8dbec-435a-497f-b6a0-abbd4cb70f84"#2C"originalText"#3A"{\\blur0.96\\fsp7.5\\pos(966#2C360)\\fscx140\\fscy130\\c&H0&}If I"}
-Data: 64,a-mo,e{"uuid"#3A"5a636258-ef14-4445-9fff-3ac0031068ab"#2C"originalText"#3A"{\\blur3.36\\fsp7.5\\pos(966#2C360)\\fscx212\\fscy206\\alpha&H80&}or rather my master"}
-Data: 65,a-mo,e{"uuid"#3A"4794d2b1-ed5d-42e1-86fc-7ab522263655"#2C"originalText"#3A"{\\blur0.96\\fsp7.5\\pos(966#2C360)\\fscx212\\fscy206}or rather my master"}
-Data: 67,a-mo,e{"uuid"#3A"a63c95fe-4e97-4aa6-ade9-0e4b58c87c1b"#2C"originalText"#3A"{\\blur3.36\\fsp4.5\\pos(972#2C360)\\alpha&H80&\\fscx213\\fscy193}had any"}
-Data: 68,a-mo,e{"uuid"#3A"1aa665d2-252e-4c94-9343-2b3ff6c15d1c"#2C"originalText"#3A"{\\blur0.96\\fsp4.5\\pos(972#2C360)\\fscx213\\fscy193}had any"}
-Data: 70,a-mo,e{"uuid"#3A"e75ed384-27f7-4ac3-b33d-bead321af5da"#2C"originalText"#3A"{\\blur3.36\\fsp12\\pos(972#2C360)\\fscx202\\fscy171\\alpha&H80&}real intention"}
-Data: 71,a-mo,e{"uuid"#3A"dd792eaa-0b06-4226-8cbc-cbc72aa4a416"#2C"originalText"#3A"{\\blur0.96\\fsp12\\pos(972#2C360)\\fscx202\\fscy171}real intention"}
-Data: 73,a-mo,e{"uuid"#3A"24c357f2-9b0f-4754-9445-53fa28f679ae"#2C"originalText"#3A"{\\blur3.36\\fsp9\\pos(972#2C360)\\fscx174\\fscy164\\alpha&H80&}to harm him"}
-Data: 74,a-mo,e{"uuid"#3A"dcf1c92f-8db3-47b0-ad51-1008befddb1a"#2C"originalText"#3A"{\\blur0.96\\fsp9\\pos(972#2C360)\\fscx174\\fscy164}to harm him"}
+Dialogue: 10,0:26:19.68,0:26:21.43,Main,preview,0,0,150,,{\i1}Phần xem trước ảo giác hen.
+Dialogue: 10,0:26:21.43,0:26:24.19,Main,preview,0,0,150,,{\i1}Dù đây không phải loài bất tử,
+Dialogue: 10,0:26:24.19,0:26:28.69,Main,preview,0,0,150,,{\i1}nhưng Planarian có thể tái sinh vô kể lần\N dù cho bị cắt thành từng mảnh.
+Dialogue: 10,0:26:28.69,0:26:32.53,Main,preview,0,0,150,,{\i1}Ma cà rồng mà cũng tái sinh được như vậy\N thì đỉnh phải biết.
+Dialogue: 10,0:26:32.53,0:26:36.41,Main,preview,0,0,150,,{\i1}Nếu tay bị đứt lìa sẽ mọc ra cánh tay khác,\N còn từ cánh tay bị đứt kia lại mọc ra cơ thể khác.
+Dialogue: 10,0:26:36.41,0:26:37.70,Main,preview,0,0,150,,{\i1}Thế là nhân đôi luôn.
+Dialogue: 10,0:26:37.70,0:26:41.50,Main,preview,0,0,150,,{\i1}Loáng cái là cả thế giới tràn ngập lão nương\N cũng như thân tín của lão nương.
+Dialogue: 10,0:26:42.08,0:26:45.00,Main,preview,0,0,150,,{\i1}Kỳ tới, Gia đình Tsubasa, phần 4.
+Dialogue: 10,0:26:45.00,0:26:47.46,Main,preview,0,0,150,,{\i1}Không biết riêng lần này\N sẽ có thêm bao nhiêu người nhỉ?
