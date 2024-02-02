@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/[OZR] Nekomonogatari Black (BD 1080p HEVC Opus)/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
-Video File: E:/[OZR] Nekomonogatari Black (BD 1080p HEVC Opus)/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
+Audio File: ../raws/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
+Video File: ../raws/[OZR] Nekomonogatari Black - 01 (BD 1080p HEVC Opus) [E0AEF36F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 784
-Active Line: 795
-Video Position: 35096
+Video Zoom Percent: 0.750000
+Scroll Position: 38
+Active Line: 39
+Video Position: 3763
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,8 +81,8 @@ Dialogue: 0,0:26:07.12,0:26:12.63,Black and Red,,0,0,0,,{\blur0.699\pos(963,82.4
 Dialogue: 0,0:25:40.60,0:25:42.89,Black and Red,,0,0,0,,{\blur0.9\fs55\fscx120\fscy120\c&HFFFFFF&\pos(979.2,525)}Nguyên tác: Nisio Isin \N\N Minh họa: Haritama Hiroki
 Dialogue: 0,0:26:04.08,0:26:07.12,Black and Red,,0,0,0,,{\blur0.765\b1\fscx116\fscy116\pos(964.5,223.672)}Kỳ Tới
 Dialogue: 0,0:26:04.08,0:26:07.12,Black and Red,,0,0,0,,{\blur0.765\b1\fscx116\an4\fscy116\pos(558.5,493.672)\fsp4.5}Gia Đình Tsubasa               Phần Hai
-Dialogue: 1,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur0.899\pos(963,218.797)\c&HFFFFFF&\fscx76\fscy79}Episode Forbidden
-Dialogue: 0,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur4.496\pos(963,218.797)\c&HFFFFFF&\fscx76\fscy79}Episode Forbidden
+Dialogue: 1,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur0.899\pos(963,218.797)\c&HFFFFFF&\fscx76\fscy79}Cấm Tập
+Dialogue: 0,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur4.496\pos(963,218.797)\c&HFFFFFF&\fscx76\fscy79}Cấm Tập
 Dialogue: 1,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur0.899\fsp22.479\c&HFFFFFF&\fscx167\fscy167\pos(975,460.101)\fs51}Gia Đình Tsubasa
 Dialogue: 0,0:02:36.51,0:02:39.52,Blogemonogatari,,0,0,0,,{\blur5.994\fsp22.479\c&HFFFFFF&\fscx167\fscy167\pos(975,460.101)\fs51}Gia Đình Tsubasa
 Dialogue: 1,0:02:36.51,0:02:39.52,Black and Red,,0,0,0,,{\blur0.899\fsp2.997\pos(963,854.208)\c&HFFFFFF&\fscx90\fscy90}Phông chữ dùng cho minh họa: Gentium (Basic) và VL DellaRobbia BT
