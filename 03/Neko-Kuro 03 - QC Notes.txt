@@ -17,6 +17,7 @@ Không cẩn thận, nó thậm chí có thể \Nsánh ngang được với Mà 
 
 Và thế là "đen hóa".
 {*[Note]  "hắc hoá" e thấy hợp hơn, "đen hoá" đọc lên bị lạ*}
+-mình gọi là Đen mà-
 
 Tuy nhiên bình thường thì...\N con mèo chỉ dừng lại ở mức mặt nạ mà thôi,
 {*[Note]  từ "mà" đọc lên hơi thừa*}
@@ -34,3 +35,5 @@ TS:
 ¯\_(ツ)_/¯
 
 ======================
+
+DONE
